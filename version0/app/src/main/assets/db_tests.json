@@ -1,0 +1,94 @@
+{
+  "test1": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": [
+        {
+          "option": "London",
+          "isCorrect": false
+        },
+        {
+          "option": "Paris",
+          "isCorrect": true
+        },
+        {
+          "option": "Berlin",
+          "isCorrect": false
+        },
+        {
+          "option": "Rome",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        {
+          "option": "Mars",
+          "isCorrect": false
+        },
+        {
+          "option": "Venus",
+          "isCorrect": false
+        },
+        {
+          "option": "Jupiter",
+          "isCorrect": true
+        },
+        {
+          "option": "Saturn",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "test2": [
+    {
+      "id": 1,
+      "question": "What is the capital of Germany?",
+      "options": [
+        {
+          "option": "London",
+          "isCorrect": false
+        },
+        {
+          "option": "Paris",
+          "isCorrect": false
+        },
+        {
+          "option": "Berlin",
+          "isCorrect": true
+        },
+        {
+          "option": "Rome",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the smallest planet in our solar system?",
+      "options": [
+        {
+          "option": "Mars",
+          "isCorrect": false
+        },
+        {
+          "option": "Venus",
+          "isCorrect": false
+        },
+        {
+          "option": "Jupiter",
+          "isCorrect": false
+        },
+        {
+          "option": "Mercury",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

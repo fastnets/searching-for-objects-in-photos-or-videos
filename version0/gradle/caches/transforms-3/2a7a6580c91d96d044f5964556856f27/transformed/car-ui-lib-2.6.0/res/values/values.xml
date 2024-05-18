@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/strings.xml -->
+<eat-comment/>
+<string-array name="car_ui_ime_wide_screen_allowed_package_list" translatable="false"></string-array>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/attrs.xml -->
+<eat-comment/>
+
+<attr name="CarUiToolbarStyle" format="reference"/>
+
+<attr name="carUiPreferenceStyle" format="reference"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="carUiRecyclerViewStyle" type="attr"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/attrs.xml -->
+<eat-comment/>
+
+<attr name="preferenceStyle" format="reference"/>
+
+<attr name="state_ux_restricted" format="boolean"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/bools.xml -->
+<eat-comment/>
+<bool name="car_ui_alert_dialog_force_dismiss_button">true</bool>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/bools.xml -->
+<eat-comment/>
+<bool name="car_ui_clear_focus_area_history_when_rotating">true</bool>
+<bool name="car_ui_enable_focus_area_background_highlight">false</bool>
+<bool name="car_ui_enable_focus_area_foreground_highlight">false</bool>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/bools.xml -->
+<eat-comment/>
+<bool name="car_ui_escrow_check_components_automatically">false</bool>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/bools.xml -->
+<eat-comment/>
+<bool name="car_ui_focus_area_default_focus_overrides_history">false</bool>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/bools.xml -->
+<eat-comment/>
+<bool name="car_ui_ime_wide_screen_aligned_left">true</bool>
+<bool name="car_ui_ime_wide_screen_allow_app_hide_content_area">true</bool>
+<bool name="car_ui_is_light_theme">false</bool>
+<bool name="car_ui_list_item_single_line_title">false</bool>
+<bool name="car_ui_omit_display_cut_out_insets">false</bool>
+<bool name="car_ui_preference_list_instant_change_callback">false</bool>
+<bool name="car_ui_preference_list_show_full_screen">true</bool>
+<bool name="car_ui_preference_show_chevron">false</bool>
+<bool name="car_ui_preference_two_action_switch_widget_focusable">false</bool>
+<bool name="car_ui_scrollbar_enable">true</bool>
+<bool name="car_ui_toolbar_logo_fills_nav_icon_space">true</bool>
+<bool name="car_ui_toolbar_menuitem_individual_click_listeners">false</bool>
+<bool name="car_ui_toolbar_nav_icon_reserve_space">true</bool>
+<bool name="car_ui_toolbar_show_logo">true</bool>
+<bool name="car_ui_toolbar_tab_flexible_layout">false</bool>
+<bool name="car_ui_toolbar_tabs_on_second_row">false</bool>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/colors.xml -->
+<eat-comment/>
+<color name="car_ui_activity_background_color">#000000</color>
+<color name="car_ui_ime_wide_screen_description_color">#FFF</color>
+<color name="car_ui_ime_wide_screen_description_title_color">#FFF</color>
+<color name="car_ui_ime_wide_screen_divider_color">#2E3134</color>
+<color name="car_ui_ime_wide_screen_error_text_color">#F00</color>
+<color name="car_ui_ime_wide_screen_search_item_sub_title_color">#FFF</color>
+<color name="car_ui_ime_wide_screen_search_item_title_color">#FFF</color>
+<color name="car_ui_preference_icon_color">@color/car_ui_text_color_primary</color>
+<color name="car_ui_preference_two_action_divider_color">#75ffffff</color>
+<color name="car_ui_recyclerview_divider_color">@android:color/transparent</color>
+<color name="car_ui_ripple_color">#27ffffff</color>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/colors.xml -->
+<eat-comment/>
+<color name="car_ui_rotary_focus_fill_color">#3D94CBFF</color>
+<color name="car_ui_rotary_focus_fill_secondary_color">#3D0059B3</color>
+<color name="car_ui_rotary_focus_pressed_fill_color">#8A94CBFF</color>
+<color name="car_ui_rotary_focus_pressed_fill_secondary_color">#8A0041BE</color>
+<color name="car_ui_rotary_focus_pressed_stroke_color">#94CBFF</color>
+<color name="car_ui_rotary_focus_pressed_stroke_secondary_color">#0041BE</color>
+<color name="car_ui_rotary_focus_stroke_color">#94CBFF</color>
+<color name="car_ui_rotary_focus_stroke_secondary_color">#0059B3</color>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/colors.xml -->
+<eat-comment/>
+<color name="car_ui_scrollbar_arrow">#FFFFFF</color>
+<color name="car_ui_toolbar_nav_icon_color">@color/car_ui_text_color_primary</color>
+<color name="car_ui_toolbar_search_hint_text_color">@color/car_ui_text_color_hint</color>
+<color name="car_ui_toolbar_tab_selected_color">@color/car_ui_text_color_primary</color>
+<color name="car_ui_toolbar_tab_unselected_color">@color/car_ui_text_color_secondary</color>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_app_styled_dialog_dim_amount">0.5</dimen>
+<dimen name="car_ui_app_styled_dialog_height">0dp</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/priv-dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_app_styled_dialog_height_max">768dp</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_app_styled_dialog_position_x">0dp</dimen>
+<dimen name="car_ui_app_styled_dialog_position_y">0dp</dimen>
+<dimen name="car_ui_app_styled_dialog_width">0dp</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/priv-dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_app_styled_dialog_width_max">1334dp</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_body1_size">32sp</dimen>
+<dimen name="car_ui_body2_size">28sp</dimen>
+<dimen name="car_ui_body3_size">24sp</dimen>
+<item name="car_ui_button_disabled_alpha" format="float" type="dimen">0.2</item>
+<dimen name="car_ui_dialog_edittext_height">50dp</dimen>
+<dimen name="car_ui_dialog_edittext_margin_bottom">10dp</dimen>
+<dimen name="car_ui_dialog_edittext_margin_end">@dimen/car_ui_padding_5</dimen>
+<dimen name="car_ui_dialog_edittext_margin_start">@dimen/car_ui_padding_5</dimen>
+<dimen name="car_ui_dialog_edittext_margin_top">10dp</dimen>
+<dimen name="car_ui_dialog_icon_size">56dp</dimen>
+<dimen name="car_ui_dialog_title_margin">@dimen/car_ui_padding_5</dimen>
+<dimen name="car_ui_divider_width">1dp</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/priv-dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_footer_icon_alpha">.72</dimen>
+<dimen name="car_ui_footer_icon_padding">3dp</dimen>
+<dimen name="car_ui_footer_icon_size">36dp</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_header_list_item_text_start_margin">0dp</dimen>
+<dimen name="car_ui_ime_wide_screen_action_button_height">88dp</dimen>
+<dimen name="car_ui_ime_wide_screen_action_button_margin_bottom">40dp</dimen>
+<dimen name="car_ui_ime_wide_screen_action_button_margin_left">36dp</dimen>
+<dimen name="car_ui_ime_wide_screen_action_button_text_size">32dp</dimen>
+<dimen name="car_ui_ime_wide_screen_description_padding_top">16dp</dimen>
+<dimen name="car_ui_ime_wide_screen_description_text_size">32dp</dimen>
+<dimen name="car_ui_ime_wide_screen_description_title_margin_top">190dp</dimen>
+<dimen name="car_ui_ime_wide_screen_description_title_padding_left">36dp</dimen>
+<dimen name="car_ui_ime_wide_screen_description_title_text_size">44dp</dimen>
+<dimen name="car_ui_ime_wide_screen_divider_width">5dp</dimen>
+<dimen name="car_ui_ime_wide_screen_error_text_padding_start">68dp</dimen>
+<dimen name="car_ui_ime_wide_screen_error_text_size">24dp</dimen>
+<dimen name="car_ui_ime_wide_screen_input_area_height">96dp</dimen>
+<dimen name="car_ui_ime_wide_screen_input_area_padding_end">68dp</dimen>
+<dimen name="car_ui_ime_wide_screen_input_area_padding_top">56dp</dimen>
+<dimen name="car_ui_ime_wide_screen_input_edit_text_padding_left">68dp</dimen>
+<dimen name="car_ui_ime_wide_screen_input_edit_text_padding_right">0dp</dimen>
+<dimen name="car_ui_ime_wide_screen_input_edit_text_size">68dp</dimen>
+<dimen name="car_ui_ime_wide_screen_input_padding_start">36dp</dimen>
+<dimen name="car_ui_ime_wide_screen_keyboard_area_padding_bottom">40dp</dimen>
+<dimen name="car_ui_ime_wide_screen_keyboard_area_padding_end">36dp</dimen>
+<dimen name="car_ui_ime_wide_screen_keyboard_area_padding_start">36dp</dimen>
+<dimen name="car_ui_ime_wide_screen_keyboard_width">1250dp</dimen>
+<dimen name="car_ui_ime_wide_screen_recycler_view_padding_top">100dp</dimen>
+<dimen name="car_ui_ime_wide_search_item_icon_size">116dp</dimen>
+<dimen name="car_ui_ime_wide_search_item_secondary_image_padding_left">36dp</dimen>
+<dimen name="car_ui_ime_wide_search_item_sub_title_padding_left">24dp</dimen>
+<dimen name="car_ui_ime_wide_search_item_sub_title_padding_top">22dp</dimen>
+<dimen name="car_ui_ime_wide_search_item_sub_title_text_size">24dp</dimen>
+<dimen name="car_ui_ime_wide_search_item_title_padding_left">24dp</dimen>
+<dimen name="car_ui_ime_wide_search_item_title_padding_top">22dp</dimen>
+<dimen name="car_ui_ime_wide_search_item_title_text_size">32dp</dimen>
+<dimen name="car_ui_list_item_action_divider_height">60dp</dimen>
+<dimen name="car_ui_list_item_action_divider_width">1dp</dimen>
+<dimen name="car_ui_list_item_avatar_icon_height">@dimen/car_ui_primary_icon_size</dimen>
+<dimen name="car_ui_list_item_avatar_icon_width">@dimen/car_ui_primary_icon_size</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="car_ui_list_item_check_box_end_inset" type="dimen"/>
+
+<item name="car_ui_list_item_check_box_height" type="dimen"/>
+
+<item name="car_ui_list_item_check_box_icon_container_width" type="dimen"/>
+
+<item name="car_ui_list_item_check_box_start_inset" type="dimen"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_list_item_content_icon_height">@dimen/car_ui_list_item_icon_container_width</dimen>
+<dimen name="car_ui_list_item_content_icon_width">@dimen/car_ui_list_item_icon_container_width</dimen>
+<dimen name="car_ui_list_item_end_inset">0dp</dimen>
+<dimen name="car_ui_list_item_header_height">76dp</dimen>
+<dimen name="car_ui_list_item_header_start_inset">0dp</dimen>
+<dimen name="car_ui_list_item_height">116dp</dimen>
+<dimen name="car_ui_list_item_icon_container_width">112dp</dimen>
+<dimen name="car_ui_list_item_icon_size">@dimen/car_ui_primary_icon_size</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="car_ui_list_item_radio_button_end_inset" type="dimen"/>
+
+<item name="car_ui_list_item_radio_button_height" type="dimen"/>
+
+<item name="car_ui_list_item_radio_button_icon_container_width" type="dimen"/>
+
+<item name="car_ui_list_item_radio_button_start_inset" type="dimen"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_list_item_start_inset">0dp</dimen>
+<dimen name="car_ui_list_item_supplemental_icon_size">@dimen/car_ui_primary_icon_size</dimen>
+<dimen name="car_ui_list_item_text_no_icon_start_margin">24dp</dimen>
+<dimen name="car_ui_list_item_text_start_margin">24dp</dimen>
+<dimen name="car_ui_margin">112dp</dimen>
+<dimen name="car_ui_padding_0">4dp</dimen>
+<dimen name="car_ui_padding_1">8dp</dimen>
+<dimen name="car_ui_padding_2">12dp</dimen>
+<dimen name="car_ui_padding_3">16dp</dimen>
+<dimen name="car_ui_padding_4">24dp</dimen>
+<dimen name="car_ui_padding_5">32dp</dimen>
+<dimen name="car_ui_padding_6">48dp</dimen>
+<dimen name="car_ui_padding_7">64dp</dimen>
+<dimen name="car_ui_padding_8">96dp</dimen>
+<dimen name="car_ui_preference_category_icon_margin_end">16dp</dimen>
+<dimen name="car_ui_preference_category_icon_size">44dp</dimen>
+<dimen name="car_ui_preference_category_min_height">76dp</dimen>
+<dimen name="car_ui_preference_content_margin_bottom">16dp</dimen>
+<dimen name="car_ui_preference_content_margin_top">16dp</dimen>
+<dimen name="car_ui_preference_dropdown_padding_start">112dp</dimen>
+<dimen name="car_ui_preference_edit_text_dialog_margin_bottom">32dp</dimen>
+<dimen name="car_ui_preference_edit_text_dialog_margin_top">32dp</dimen>
+<dimen name="car_ui_preference_edit_text_dialog_message_margin_bottom">32dp</dimen>
+<dimen name="car_ui_preference_edit_text_dialog_message_margin_end">24dp</dimen>
+<dimen name="car_ui_preference_edit_text_dialog_message_margin_start">24dp</dimen>
+<dimen name="car_ui_preference_edit_text_dialog_text_margin_end">24dp</dimen>
+<dimen name="car_ui_preference_edit_text_dialog_text_margin_start">24dp</dimen>
+<dimen name="car_ui_preference_icon_margin_end">16dp</dimen>
+<dimen name="car_ui_preference_icon_size">44dp</dimen>
+<dimen name="car_ui_primary_icon_size">44dp</dimen>
+<dimen name="car_ui_recyclerview_divider_bottom_margin">0dp</dimen>
+<dimen name="car_ui_recyclerview_divider_end_margin">0dp</dimen>
+<dimen name="car_ui_recyclerview_divider_height">0dp</dimen>
+<dimen name="car_ui_recyclerview_divider_start_margin">0dp</dimen>
+<dimen name="car_ui_recyclerview_divider_top_margin">0dp</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_rotary_focus_pressed_stroke_width">4dp</dimen>
+<dimen name="car_ui_rotary_focus_stroke_width">8dp</dimen>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_scrollbar_button_size">@dimen/car_ui_touch_target_width</dimen>
+<dimen name="car_ui_scrollbar_container_width">@dimen/car_ui_margin</dimen>
+<item name="car_ui_scrollbar_decelerate_interpolator_factor" format="float" type="dimen">1.8</item>
+<item name="car_ui_scrollbar_deceleration_times_divisor" format="float" type="dimen">0.45</item>
+<dimen name="car_ui_scrollbar_margin">@dimen/car_ui_margin</dimen>
+<item name="car_ui_scrollbar_milliseconds_per_inch" format="float" type="dimen">150.0</item>
+<dimen name="car_ui_scrollbar_min_thumb_height">56dp</dimen>
+<dimen name="car_ui_scrollbar_padding_bottom">0dp</dimen>
+<dimen name="car_ui_scrollbar_padding_top">0dp</dimen>
+<dimen name="car_ui_scrollbar_separator_margin">16dp</dimen>
+<dimen name="car_ui_scrollbar_thumb_radius">100dp</dimen>
+<dimen name="car_ui_scrollbar_thumb_width">7dp</dimen>
+<dimen name="car_ui_shortcuts_popup_width">366dp</dimen>
+<dimen name="car_ui_sub1_size">22sp</dimen>
+<dimen name="car_ui_sub2_size">20sp</dimen>
+<dimen name="car_ui_sub3_size">18sp</dimen>
+<dimen name="car_ui_toolbar_bottom_inset">0dp</dimen>
+<dimen name="car_ui_toolbar_bottom_view_height">0.1dp</dimen>
+<dimen name="car_ui_toolbar_end_inset">0dp</dimen>
+<dimen name="car_ui_toolbar_first_row_height">@dimen/car_ui_toolbar_row_height</dimen>
+<dimen name="car_ui_toolbar_logo_size">@dimen/car_ui_primary_icon_size</dimen>
+<dimen name="car_ui_toolbar_margin">@dimen/car_ui_margin</dimen>
+<dimen name="car_ui_toolbar_menu_item_icon_background_size">54dp</dimen>
+<dimen name="car_ui_toolbar_menu_item_icon_ripple_radius">48dp</dimen>
+<dimen name="car_ui_toolbar_menu_item_icon_size">@dimen/car_ui_primary_icon_size</dimen>
+<dimen name="car_ui_toolbar_menu_item_margin">@dimen/car_ui_padding_3</dimen>
+<dimen name="car_ui_toolbar_nav_icon_size">@dimen/car_ui_primary_icon_size</dimen>
+<dimen name="car_ui_toolbar_row_height">96dp</dimen>
+<dimen name="car_ui_toolbar_search_close_icon_container_width">@dimen/car_ui_touch_target_width</dimen>
+<dimen name="car_ui_toolbar_search_close_icon_size">@dimen/car_ui_primary_icon_size</dimen>
+<dimen name="car_ui_toolbar_search_height">0dp</dimen>
+<dimen name="car_ui_toolbar_search_search_icon_container_width">@dimen/car_ui_touch_target_width</dimen>
+<dimen name="car_ui_toolbar_search_search_icon_size">@dimen/car_ui_primary_icon_size</dimen>
+<dimen name="car_ui_toolbar_second_row_height">@dimen/car_ui_toolbar_row_height</dimen>
+<dimen name="car_ui_toolbar_separator_height">0.1dp</dimen>
+<dimen name="car_ui_toolbar_start_inset">0dp</dimen>
+<dimen name="car_ui_toolbar_tab_icon_height">36dp</dimen>
+<dimen name="car_ui_toolbar_tab_icon_width">36dp</dimen>
+<dimen name="car_ui_toolbar_tab_padding_x">12dp</dimen>
+<dimen name="car_ui_toolbar_tab_text_width">135dp</dimen>
+<dimen name="car_ui_toolbar_title_logo_padding">0dp</dimen>
+<dimen name="car_ui_toolbar_title_margin_start">@dimen/car_ui_padding_3</dimen>
+<dimen name="car_ui_toolbar_title_no_logo_margin_start">0dp</dimen>
+<dimen name="car_ui_toolbar_top_inset">0dp</dimen>
+<dimen name="car_ui_touch_target_height">@dimen/car_ui_touch_target_size</dimen>
+<dimen name="car_ui_touch_target_size">76dp</dimen>
+<dimen name="car_ui_touch_target_width">@dimen/car_ui_touch_target_size</dimen>
+<item name="wrap_content" format="integer" type="dimen">-2</item>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/drawables.xml -->
+<eat-comment/>
+<drawable name="car_ui_activity_background">@color/car_ui_activity_background_color</drawable>
+<drawable name="car_ui_icon_search_nav_icon">@drawable/car_ui_icon_arrow_back</drawable>
+<drawable name="car_ui_ime_wide_screen_background">#000</drawable>
+<drawable name="car_ui_ime_wide_screen_content_area_background">#000</drawable>
+<drawable name="car_ui_ime_wide_screen_input_area_background">#000</drawable>
+<drawable name="car_ui_ime_wide_screen_input_area_tint_color">#f5f5f5</drawable>
+<drawable name="car_ui_ime_wide_screen_input_area_tint_error_color">#f00</drawable>
+<drawable name="car_ui_ime_wide_screen_no_content_background">#cc000000</drawable>
+<item name="car_ui_preference_icon_chevron_disabled" type="drawable">@android:color/transparent</item>
+<item name="car_ui_preference_icon_chevron_enabled" type="drawable">@drawable/car_ui_icon_chevron</item>
+<drawable name="car_ui_toolbar_background">#E0000000</drawable>
+<drawable name="car_ui_toolbar_search_close_icon">@drawable/car_ui_icon_close</drawable>
+<drawable name="car_ui_toolbar_search_search_icon">@drawable/car_ui_icon_search</drawable>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/res_exceptions.xml -->
+<eat-comment/>
+
+<item name="action_widget_container" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/ids.xml -->
+<eat-comment/>
+
+<item name="car_ui_closeKeyboard" type="id"/>
+
+<item name="car_ui_component_reference" type="id"/>
+
+<item name="car_ui_contentAreaAutomotive" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/res_exceptions.xml -->
+<eat-comment/>
+
+<item name="car_ui_divider" type="id"/>
+
+<item name="car_ui_first_action_container" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/ids.xml -->
+<eat-comment/>
+
+<item name="car_ui_fullscreenArea" type="id"/>
+
+<item name="car_ui_imeWideScreenInputArea" type="id"/>
+
+<item name="car_ui_ime_surface" type="id"/>
+
+<item name="car_ui_inputExtractActionAutomotive" type="id"/>
+
+<item name="car_ui_inputExtractEditTextContainer" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/res_exceptions.xml -->
+<eat-comment/>
+
+<item name="car_ui_link" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="car_ui_list_item_text_container" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/res_exceptions.xml -->
+<eat-comment/>
+
+<item name="car_ui_preference_container_without_widget" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="car_ui_preference_fragment_container" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/res_exceptions.xml -->
+<eat-comment/>
+
+<item name="car_ui_second_action_container" type="id"/>
+
+<item name="car_ui_secondary_action" type="id"/>
+
+<item name="car_ui_secondary_action_concrete" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/ids.xml -->
+<eat-comment/>
+
+<item name="car_ui_web_view_last_focused_element" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/ids.xml -->
+<eat-comment/>
+
+<item name="car_ui_wideScreenClearData" type="id"/>
+
+<item name="car_ui_wideScreenDescription" type="id"/>
+
+<item name="car_ui_wideScreenDescriptionTitle" type="id"/>
+
+<item name="car_ui_wideScreenError" type="id"/>
+
+<item name="car_ui_wideScreenErrorMessage" type="id"/>
+
+<item name="car_ui_wideScreenExtractedTextIcon" type="id"/>
+
+<item name="car_ui_wideScreenInputArea" type="id"/>
+
+<item name="car_ui_wideScreenSearchResultList" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="nested_recycler_view_layout" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/ids.xml -->
+<eat-comment/>
+
+<item name="search" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/res_exceptions.xml -->
+<eat-comment/>
+
+<item name="seek_bar" type="id"/>
+
+<item name="seek_bar_text_left" type="id"/>
+
+<item name="seek_bar_text_right" type="id"/>
+
+<item name="seek_bar_text_top" type="id"/>
+
+<item name="spinner" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="toolbar" type="id"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/integers.xml -->
+<eat-comment/>
+<integer name="car_ui_default_max_string_length">120</integer>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/integers.xml -->
+<eat-comment/>
+<integer name="car_ui_focus_area_history_cache_type">2</integer>
+<integer name="car_ui_focus_area_history_expiration_period_ms">3000</integer>
+<integer name="car_ui_focus_history_cache_type">2</integer>
+<integer name="car_ui_focus_history_expiration_period_ms">300000</integer>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/integers.xml -->
+<eat-comment/>
+<integer name="car_ui_scrollbar_longpress_initial_delay">1000</integer>
+<integer name="car_ui_scrollbar_longpress_repeat_interval">100</integer>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/integers.xml -->
+<eat-comment/>
+<integer name="car_ui_touch_mode_skip_restore_focus_ms">100</integer>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="car_ui_list_preference_with_toolbar" type="layout"/>
+
+<item name="car_ui_preference_fragment_with_toolbar" type="layout"/>
+
+<item name="car_ui_recycler_view_item" type="layout"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/values.xml -->
+<eat-comment/>
+<layout name="car_ui_toolbar_menu_item_primary">@layout/car_ui_toolbar_menu_item</layout>
+<layout name="car_ui_toolbar_tab_item_layout">@layout/car_ui_toolbar_tab_item</layout>
+<layout name="car_ui_toolbar_tab_item_layout_flexible">@layout/car_ui_toolbar_tab_item_flexible</layout>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/strings.xml -->
+<eat-comment/>
+<string name="car_ui_alert_dialog_default_button">Close</string>
+<string name="car_ui_dialog_preference_negative" translatable="false">@android:string/cancel
+    </string>
+<string name="car_ui_dialog_preference_positive" translatable="false">@android:string/ok
+    </string>
+<string name="car_ui_ellipsis" translatable="false">…</string>
+<string name="car_ui_ime_wide_screen_system_property_name" translatable="false">
+        ro.build.automotive.ime.wide_screen.enabled
+    </string>
+
+<string name="car_ui_installer_process_name" translatable="false"/>
+<string name="car_ui_plugin_package_provider_authority_name" translatable="false">
+        com.android.car.ui.plugin
+    </string>
+<string name="car_ui_preference_switch_off">Off</string>
+<string name="car_ui_preference_switch_on">On</string>
+<string name="car_ui_restricted_while_driving">Feature not available while driving</string>
+
+<string name="car_ui_scrollbar_component" translatable="false"/>
+<string name="car_ui_scrollbar_page_down_button">Scroll down</string>
+<string name="car_ui_scrollbar_page_up_button">Scroll up</string>
+<string name="car_ui_scrolling_limited_message">Scrolling limited while driving</string>
+<string name="car_ui_toolbar_default_search_hint">Search…</string>
+<string name="car_ui_toolbar_menu_item_overflow_title">Overflow</string>
+<string name="car_ui_toolbar_menu_item_search_title">Search</string>
+<string name="car_ui_toolbar_menu_item_settings_title">Settings</string>
+<string name="car_ui_toolbar_nav_icon_content_description">Back</string>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/themes.xml -->
+<eat-comment/>
+<style name="CarUiPreferenceTheme">
+<item name="checkBoxPreferenceStyle">@style/Preference.CarUi.CheckBoxPreference</item>
+<item name="dialogPreferenceStyle">@style/Preference.CarUi.DialogPreference</item>
+<item name="dropdownPreferenceStyle">@style/Preference.CarUi.DropDown</item>
+<item name="editTextPreferenceStyle">@style/Preference.CarUi.DialogPreference.EditTextPreference</item>
+<item name="preferenceCategoryStyle">@style/Preference.CarUi.Category</item>
+<item name="preferenceFragmentCompatStyle">@style/PreferenceFragment.CarUi</item>
+<item name="preferenceFragmentListStyle">@style/PreferenceFragmentList.CarUi</item>
+<item name="preferenceFragmentStyle">@style/PreferenceFragment.CarUi</item>
+<item name="preferenceScreenStyle">@style/Preference.CarUi.PreferenceScreen</item>
+<item name="preferenceStyle">@style/Preference.CarUi</item>
+<item name="seekBarPreferenceStyle">@style/Preference.CarUi.SeekBarPreference</item>
+<item name="switchPreferenceStyle">@style/Preference.CarUi.SwitchPreference</item>
+</style>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="CarUiPreferenceTheme.WithToolbar" type="style"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/styles.xml -->
+<eat-comment/>
+<style name="Preference.CarUi">
+<item name="allowDividerBelow">false</item>
+<item name="allowDividerAbove">false</item>
+<item name="android:layout">@layout/car_ui_preference</item>
+</style>
+<style name="Preference.CarUi.Category">
+<item name="android:layout">@layout/car_ui_preference_category</item>
+<item name="android:shouldDisableView">false</item>
+<item name="android:selectable">false</item>
+</style>
+<style name="Preference.CarUi.CheckBoxPreference">
+<item name="android:widgetLayout">@layout/car_ui_preference_widget_checkbox</item>
+</style>
+<style name="Preference.CarUi.DialogPreference">
+<item name="android:positiveButtonText">@string/car_ui_dialog_preference_positive</item>
+<item name="android:negativeButtonText">@string/car_ui_dialog_preference_negative</item>
+</style>
+<style name="Preference.CarUi.DialogPreference.EditTextPreference">
+<item name="android:dialogLayout">@layout/car_ui_preference_dialog_edittext</item>
+</style>
+<style name="Preference.CarUi.DialogSeekBarPreference">
+</style>
+<style name="Preference.CarUi.DialogSeekBarPreference.LeftText">
+</style>
+<style name="Preference.CarUi.DialogSeekBarPreference.RightText">
+</style>
+<style name="Preference.CarUi.DialogSeekBarPreference.Seekbar">
+</style>
+<style name="Preference.CarUi.DialogSeekBarPreference.TopText">
+</style>
+<style name="Preference.CarUi.Divider">
+<item name="android:background">@color/car_ui_preference_two_action_divider_color</item>
+</style>
+<style name="Preference.CarUi.DropDown">
+<item name="android:layout">@layout/car_ui_preference_dropdown</item>
+</style>
+<style name="Preference.CarUi.Icon">
+</style>
+<style name="Preference.CarUi.Information">
+<item name="android:enabled">false</item>
+<item name="android:shouldDisableView">false</item>
+</style>
+<style name="Preference.CarUi.Preference">
+</style>
+<style name="Preference.CarUi.PreferenceScreen">
+</style>
+<style name="Preference.CarUi.SeekBarPreference">
+<item name="android:layout">@layout/car_ui_preference_widget_seekbar</item>
+<item name="adjustable">true</item>
+<item name="showSeekBarValue">false</item>
+</style>
+<style name="Preference.CarUi.SwitchPreference">
+<item name="android:widgetLayout">@layout/car_ui_preference_widget_switch</item>
+<item name="android:switchTextOn">@string/car_ui_preference_switch_on</item>
+<item name="android:switchTextOff">@string/car_ui_preference_switch_off</item>
+</style>
+<style name="PreferenceFragment.CarUi">
+<item name="android:divider">?android:attr/listDivider</item>
+<item name="android:layout">@layout/car_ui_preference_fragment</item>
+</style>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="PreferenceFragment.CarUi.WithToolbar" type="style"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/styles.xml -->
+<eat-comment/>
+<style name="PreferenceFragmentList.CarUi">
+<item name="android:paddingTop">0dp</item>
+<item name="android:paddingBottom">0dp</item>
+<item name="android:paddingLeft">0dp</item>
+<item name="android:paddingStart">0dp</item>
+<item name="android:paddingRight">0dp</item>
+<item name="android:paddingEnd">0dp</item>
+</style>
+<style name="TextAppearance.CarUi" parent="android:TextAppearance.DeviceDefault">
+<item name="android:textColor">@color/car_ui_text_color_primary</item>
+</style>
+<style name="TextAppearance.CarUi.AlertDialog.Subtitle" parent="TextAppearance.CarUi.Body3">
+</style>
+<style name="TextAppearance.CarUi.AlertDialog.Title" parent="TextAppearance.CarUi.Body1">
+</style>
+<style name="TextAppearance.CarUi.Body1">
+<item name="android:textSize">@dimen/car_ui_body1_size</item>
+</style>
+<style name="TextAppearance.CarUi.Body2">
+<item name="android:textSize">@dimen/car_ui_body2_size</item>
+</style>
+<style name="TextAppearance.CarUi.Body3">
+<item name="android:textSize">@dimen/car_ui_body3_size</item>
+</style>
+<style name="TextAppearance.CarUi.ListItem" parent="TextAppearance.CarUi.Body1">
+</style>
+<style name="TextAppearance.CarUi.ListItem.Body" parent="TextAppearance.CarUi.Body3">
+<item name="android:textColor">@color/car_ui_text_color_secondary</item>
+</style>
+<style name="TextAppearance.CarUi.ListItem.Header" parent="TextAppearance.CarUi.Body3">
+<item name="android:fontFamily">sans-serif-medium</item>
+<item name="android:textColor">@color/car_ui_color_accent</item>
+</style>
+<style name="TextAppearance.CarUi.PreferenceCategoryTitle" parent="TextAppearance.CarUi.Body3">
+<item name="android:fontFamily">sans-serif-medium</item>
+<item name="android:textColor">@color/car_ui_color_accent</item>
+</style>
+<style name="TextAppearance.CarUi.PreferenceEditTextDialogMessage" parent="TextAppearance.CarUi.Body3">
+</style>
+<style name="TextAppearance.CarUi.PreferenceSummary" parent="TextAppearance.CarUi.Body3">
+<item name="android:textColor">@color/car_ui_text_color_secondary</item>
+</style>
+<style name="TextAppearance.CarUi.PreferenceTitle" parent="TextAppearance.CarUi.Body1">
+</style>
+<style name="TextAppearance.CarUi.Sub1">
+<item name="android:textSize">@dimen/car_ui_sub1_size</item>
+</style>
+<style name="TextAppearance.CarUi.Sub2">
+<item name="android:textSize">@dimen/car_ui_sub2_size</item>
+</style>
+<style name="TextAppearance.CarUi.Sub3">
+<item name="android:textSize">@dimen/car_ui_sub3_size</item>
+</style>
+<style name="TextAppearance.CarUi.Widget" parent="android:TextAppearance.DeviceDefault.Widget">
+</style>
+<style name="TextAppearance.CarUi.Widget.Toolbar">
+</style>
+<style name="TextAppearance.CarUi.Widget.Toolbar.Tab" parent="TextAppearance.CarUi.Body3">
+<item name="android:textColor">@color/car_ui_toolbar_tab_item_selector</item>
+<item name="android:textStyle">normal</item>
+<item name="android:textFontWeight">400</item>
+</style>
+<style name="TextAppearance.CarUi.Widget.Toolbar.Tab.Selected">
+<item name="android:textFontWeight">500</item>
+</style>
+<style name="TextAppearance.CarUi.Widget.Toolbar.Title" parent="TextAppearance.CarUi.Body1">
+<item name="android:singleLine">true</item>
+</style>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/themes.xml -->
+<eat-comment/>
+<style name="Theme.CarUi" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+<item name="viewInflaterClass">com.android.car.ui.CarUiLayoutInflaterFactory</item>
+<item name="carUiBaseLayout">false</item>
+<item name="carUiToolbar">false</item>
+<item name="carUiActivity">true</item>
+<item name="windowNoTitle">true</item>
+<item name="windowActionBar">false</item>
+<item name="windowActionBarOverlay">false</item>
+<item name="windowActionModeOverlay">false</item>
+<item name="actionBarPopupTheme">@null</item>
+<item name="colorBackgroundFloating">?android:attr/colorBackgroundFloating</item>
+<item name="android:isLightTheme">@bool/car_ui_is_light_theme</item>
+<item name="isLightTheme">@bool/car_ui_is_light_theme</item>
+<item name="selectableItemBackground">?android:attr/selectableItemBackground</item>
+<item name="selectableItemBackgroundBorderless">?android:attr/selectableItemBackgroundBorderless</item>
+<item name="android:borderlessButtonStyle">@style/Widget.CarUi.Button.Borderless.Colored</item>
+<item name="borderlessButtonStyle">?android:attr/borderlessButtonStyle</item>
+<item name="homeAsUpIndicator">?android:attr/homeAsUpIndicator</item>
+<item name="dividerVertical">?android:attr/dividerVertical</item>
+<item name="dividerHorizontal">?android:attr/dividerHorizontal</item>
+<item name="actionBarTabStyle">?android:attr/actionBarTabStyle</item>
+<item name="actionBarTabBarStyle">?android:attr/actionBarTabBarStyle</item>
+<item name="actionBarTabTextStyle">?android:attr/actionBarTabTextStyle</item>
+<item name="actionButtonStyle">?android:attr/actionButtonStyle</item>
+<item name="actionOverflowButtonStyle">?android:attr/actionOverflowButtonStyle</item>
+<item name="actionOverflowMenuStyle">?android:attr/actionOverflowMenuStyle</item>
+<item name="actionBarStyle">?android:attr/actionBarStyle</item>
+<item name="actionBarSplitStyle">?android:attr/actionBarSplitStyle</item>
+<item name="actionBarWidgetTheme">?android:attr/actionBarWidgetTheme</item>
+<item name="actionBarTheme">?android:attr/actionBarTheme</item>
+<item name="actionBarSize">?android:attr/actionBarSize</item>
+<item name="actionBarDivider">?android:attr/actionBarDivider</item>
+<item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+<item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
+<item name="actionMenuTextColor">?android:attr/actionMenuTextColor</item>
+<item name="actionDropDownStyle">?android:attr/actionDropDownStyle</item>
+<item name="actionModeStyle">?android:attr/actionModeStyle</item>
+<item name="actionModeBackground">?android:attr/actionModeBackground</item>
+<item name="actionModeSplitBackground">?android:attr/actionModeSplitBackground</item>
+<item name="actionModeCloseDrawable">?android:attr/actionModeCloseDrawable</item>
+<item name="actionModeCloseButtonStyle">?android:attr/actionModeCloseButtonStyle</item>
+<item name="actionModeCutDrawable">?android:attr/actionModeCutDrawable</item>
+<item name="actionModeCopyDrawable">?android:attr/actionModeCopyDrawable</item>
+<item name="actionModePasteDrawable">?android:attr/actionModePasteDrawable</item>
+<item name="actionModeSelectAllDrawable">?android:attr/actionModeSelectAllDrawable</item>
+<item name="actionModeShareDrawable">?android:attr/actionModeShareDrawable</item>
+<item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+<item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+<item name="panelBackground">?android:attr/panelBackground</item>
+<item name="listChoiceBackgroundIndicator">?android:attr/listChoiceBackgroundIndicator</item>
+<item name="textAppearanceListItem">?android:attr/textAppearanceListItem</item>
+<item name="textAppearanceListItemSmall">?android:attr/textAppearanceListItemSmall</item>
+<item name="textAppearanceListItemSecondary">?android:attr/textAppearanceListItemSecondary</item>
+<item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+<item name="listPreferredItemHeightSmall">?android:attr/listPreferredItemHeightSmall</item>
+<item name="listPreferredItemHeightLarge">?android:attr/listPreferredItemHeightLarge</item>
+<item name="listPreferredItemPaddingLeft">?android:attr/listPreferredItemPaddingLeft</item>
+<item name="listPreferredItemPaddingRight">?android:attr/listPreferredItemPaddingRight</item>
+<item name="spinnerStyle">?android:attr/spinnerStyle</item>
+<item name="spinnerDropDownItemStyle">?android:attr/spinnerDropDownItemStyle</item>
+<item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+<item name="popupMenuStyle">?android:attr/popupMenuStyle</item>
+<item name="textAppearanceLargePopupMenu">?android:attr/textAppearanceLargePopupMenu</item>
+<item name="textAppearanceSmallPopupMenu">?android:attr/textAppearanceSmallPopupMenu</item>
+<item name="textAppearancePopupMenuHeader">?android:attr/textAppearancePopupMenuHeader</item>
+<item name="listPopupWindowStyle">?android:attr/listPopupWindowStyle</item>
+<item name="dropDownListViewStyle">?android:attr/dropDownListViewStyle</item>
+<item name="listMenuViewStyle">?android:attr/listMenuViewStyle</item>
+<item name="searchViewStyle">?android:attr/searchViewStyle</item>
+<item name="textColorSearchUrl">@color/abc_search_url_text</item>
+<item name="textAppearanceSearchResultTitle">?android:attr/textAppearanceSearchResultTitle</item>
+<item name="textAppearanceSearchResultSubtitle">?android:attr/textAppearanceSearchResultSubtitle</item>
+<item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+<item name="toolbarStyle">?android:attr/toolbarStyle</item>
+<item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+<item name="editTextStyle">?android:attr/editTextStyle</item>
+<item name="editTextBackground">?android:attr/editTextBackground</item>
+<item name="editTextColor">?android:attr/editTextColor</item>
+<item name="autoCompleteTextViewStyle">?android:attr/autoCompleteTextViewStyle</item>
+<item name="colorPrimaryDark">?android:attr/colorPrimaryDark</item>
+<item name="colorPrimary">?android:attr/colorPrimary</item>
+<item name="colorAccent">?android:attr/colorAccent</item>
+<item name="colorControlNormal">?android:attr/colorControlNormal</item>
+<item name="colorControlActivated">?android:attr/colorControlActivated</item>
+<item name="colorControlHighlight">?android:attr/colorControlHighlight</item>
+<item name="colorButtonNormal">?android:attr/colorButtonNormal</item>
+<item name="colorSwitchThumbNormal">@color/switch_thumb_material_dark</item>
+<item name="controlBackground">?attr/selectableItemBackgroundBorderless</item>
+<item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
+<item name="checkboxStyle">?android:attr/checkboxStyle</item>
+<item name="radioButtonStyle">?android:attr/radioButtonStyle</item>
+<item name="switchStyle">?android:attr/switchStyle</item>
+<item name="ratingBarStyle">?android:attr/ratingBarStyle</item>
+<item name="ratingBarStyleIndicator">?android:attr/ratingBarStyleIndicator</item>
+<item name="ratingBarStyleSmall">?android:attr/ratingBarStyleSmall</item>
+<item name="seekBarStyle">?android:attr/seekBarStyle</item>
+<item name="android:buttonStyle">@style/Widget.CarUi.Button</item>
+<item name="buttonStyle">?android:attr/buttonStyle</item>
+<item name="buttonStyleSmall">?android:attr/buttonStyleSmall</item>
+<item name="imageButtonStyle">?android:attr/imageButtonStyle</item>
+<item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+<item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+<item name="buttonBarPositiveButtonStyle">?android:attr/buttonBarPositiveButtonStyle</item>
+<item name="buttonBarNegativeButtonStyle">?android:attr/buttonBarNegativeButtonStyle</item>
+<item name="buttonBarNeutralButtonStyle">?android:attr/buttonBarNeutralButtonStyle</item>
+<item name="dialogTheme">?android:attr/dialogTheme</item>
+<item name="dialogPreferredPadding">?android:attr/dialogPreferredPadding</item>
+<item name="dialogCornerRadius">?android:attr/dialogCornerRadius</item>
+<item name="alertDialogTheme">?android:attr/alertDialogTheme</item>
+<item name="alertDialogStyle">?android:attr/alertDialogStyle</item>
+<item name="alertDialogCenterButtons">false</item>
+<item name="textColorAlertDialogListItem">?android:attr/textColorAlertDialogListItem</item>
+<item name="listDividerAlertDialog">?android:attr/listDividerAlertDialog</item>
+<item name="windowFixedWidthMajor">@null</item>
+<item name="windowFixedWidthMinor">@null</item>
+<item name="windowFixedHeightMajor">@null</item>
+<item name="windowFixedHeightMinor">@null</item>
+<item name="tooltipFrameBackground">@drawable/tooltip_frame_light</item>
+<item name="tooltipForegroundColor">@color/foreground_material_light</item>
+<item name="colorError">?android:attr/colorError</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowActionBar">false</item>
+<item name="listChoiceIndicatorSingleAnimated">?android:attr/listChoiceIndicatorSingle</item>
+<item name="listChoiceIndicatorMultipleAnimated">?android:attr/listChoiceIndicatorMultiple</item>
+<item name="preferenceTheme">@style/CarUiPreferenceTheme</item>
+<item name="android:textAppearance">@style/TextAppearance.CarUi</item>
+<item name="android:textColorHighlight">#00FFFFFF</item>
+</style>
+<style name="Theme.CarUi.NoToolbar">
+<item name="carUiBaseLayout">true</item>
+<item name="carUiToolbar">false</item>
+</style>
+<style name="Theme.CarUi.WithToolbar">
+<item name="carUiBaseLayout">true</item>
+<item name="carUiToolbar">true</item>
+</style>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/styles.xml -->
+<eat-comment/>
+<style name="Widget.CarUi" parent="android:Widget.DeviceDefault">
+</style>
+<style name="Widget.CarUi.AlertDialog">
+</style>
+<style name="Widget.CarUi.AlertDialog.HeaderContainer">
+<item name="android:orientation">horizontal</item>
+<item name="android:gravity">center_vertical|start</item>
+<item name="android:paddingTop">18dp</item>
+<item name="android:paddingBottom">18dp</item>
+</style>
+<style name="Widget.CarUi.AlertDialog.Icon">
+<item name="android:layout_marginStart">@dimen/car_ui_dialog_title_margin</item>
+<item name="android:scaleType">fitCenter</item>
+</style>
+<style name="Widget.CarUi.AlertDialog.TitleContainer">
+<item name="android:layout_marginStart">@dimen/car_ui_dialog_title_margin</item>
+<item name="android:layout_marginEnd">@dimen/car_ui_dialog_title_margin</item>
+<item name="android:orientation">vertical</item>
+</style>
+<style name="Widget.CarUi.AppStyledView">
+</style>
+<style name="Widget.CarUi.AppStyledView.WindowAnimations">
+<item name="android:windowEnterAnimation">@anim/car_ui_app_styled_view_enter_anim</item>
+<item name="android:windowExitAnimation">@anim/car_ui_app_styled_view_exit_anim</item>
+</style>
+<style name="Widget.CarUi.AppStyledView.WindowAnimations.Enter">
+<item name="android:windowEnterAnimation">@anim/car_ui_app_styled_view_enter_anim</item>
+<item name="android:windowExitAnimation">@null</item>
+</style>
+<style name="Widget.CarUi.AppStyledView.WindowAnimations.Exit">
+<item name="android:windowEnterAnimation">@null</item>
+<item name="android:windowExitAnimation">@anim/car_ui_app_styled_view_exit_anim</item>
+</style>
+<style name="Widget.CarUi.AppStyledView.WindowAnimations.Intermediate">
+<item name="android:windowEnterAnimation">@null</item>
+<item name="android:windowExitAnimation">@null</item>
+</style>
+<style name="Widget.CarUi.Button" parent="android:Widget.DeviceDefault.Button">
+</style>
+<style name="Widget.CarUi.Button.Borderless.Colored" parent="android:Widget.DeviceDefault.Button.Borderless.Colored">
+</style>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/removed_resources.xml -->
+<eat-comment/>
+
+<item name="Widget.CarUi.CarUiRecyclerView" type="style"/>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/styles.xml -->
+<eat-comment/>
+<style name="Widget.CarUi.SeekbarPreference">
+</style>
+<style name="Widget.CarUi.SeekbarPreference.Seekbar">
+<item name="android:background">@null</item>
+<item name="android:clickable">false</item>
+<item name="android:focusable">false</item>
+</style>
+<style name="Widget.CarUi.Toolbar">
+</style>
+<style name="Widget.CarUi.Toolbar.BottomView">
+<item name="android:height">0.01dp</item>
+<item name="android:background">@android:color/transparent</item>
+</style>
+<style name="Widget.CarUi.Toolbar.Container">
+</style>
+<style name="Widget.CarUi.Toolbar.Logo">
+</style>
+<style name="Widget.CarUi.Toolbar.LogoContainer">
+<item name="android:paddingEnd">@dimen/car_ui_toolbar_title_logo_padding</item>
+</style>
+<style name="Widget.CarUi.Toolbar.MenuItem">
+</style>
+<style name="Widget.CarUi.Toolbar.MenuItem.Container">
+<item name="android:divider">@drawable/car_ui_toolbar_menu_item_divider</item>
+<item name="android:showDividers">beginning|middle|end</item>
+</style>
+<style name="Widget.CarUi.Toolbar.MenuItem.IndividualContainer">
+<item name="android:minHeight">@dimen/car_ui_touch_target_height</item>
+<item name="android:minWidth">@dimen/car_ui_touch_target_width</item>
+<item name="android:layout_gravity">center_vertical</item>
+</style>
+<style name="Widget.CarUi.Toolbar.NavIcon">
+<item name="android:tint">@color/car_ui_toolbar_nav_icon_color</item>
+<item name="android:background">@drawable/car_ui_toolbar_menu_item_icon_ripple</item>
+</style>
+<style name="Widget.CarUi.Toolbar.NavIconContainer">
+</style>
+<style name="Widget.CarUi.Toolbar.ProgressBar" parent="@android:style/Widget.DeviceDefault.ProgressBar.Horizontal">
+</style>
+<style name="Widget.CarUi.Toolbar.Search.CloseIcon" parent="Widget.CarUi.Toolbar">
+<item name="android:background">@drawable/car_ui_toolbar_menu_item_icon_ripple</item>
+</style>
+<style name="Widget.CarUi.Toolbar.Search.EditText" parent="android:Widget.DeviceDefault.EditText">
+<item name="android:textColor">@color/car_ui_text_color_primary</item>
+</style>
+<style name="Widget.CarUi.Toolbar.Search.SearchIcon" parent="Widget.CarUi.Toolbar">
+</style>
+<style name="Widget.CarUi.Toolbar.SeparatorView">
+<item name="android:height">0.01dp</item>
+<item name="android:background">@android:color/transparent</item>
+</style>
+<style name="Widget.CarUi.Toolbar.Subtitle">
+<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+<item name="android:textAlignment">viewStart</item>
+</style>
+<style name="Widget.CarUi.Toolbar.Tab">
+</style>
+<style name="Widget.CarUi.Toolbar.Tab.Container">
+<item name="android:orientation">vertical</item>
+<item name="android:paddingStart">@dimen/car_ui_toolbar_tab_padding_x</item>
+<item name="android:paddingEnd">@dimen/car_ui_toolbar_tab_padding_x</item>
+<item name="android:gravity">center</item>
+<item name="android:background">?android:attr/selectableItemBackground</item>
+</style>
+<style name="Widget.CarUi.Toolbar.Tab.Icon">
+<item name="android:scaleType">fitCenter</item>
+<item name="android:tint">@color/car_ui_toolbar_tab_item_selector</item>
+<item name="android:tintMode">src_in</item>
+</style>
+<style name="Widget.CarUi.Toolbar.Tab.Text">
+<item name="android:singleLine">true</item>
+<item name="android:gravity">center</item>
+<item name="android:textAppearance">@style/TextAppearance.CarUi.Widget.Toolbar.Tab</item>
+</style>
+<style name="Widget.CarUi.Toolbar.TextButton" parent="Widget.CarUi.Button.Borderless.Colored">
+<item name="android:drawableTint">@color/car_ui_toolbar_menu_item_icon_color</item>
+<item name="android:drawablePadding">10dp</item>
+<item name="android:maxWidth">350dp</item>
+</style>
+<style name="Widget.CarUi.Toolbar.TextButton.WithIcon">
+<item name="android:textColor">@color/car_ui_toolbar_menu_item_icon_color</item>
+</style>
+<style name="Widget.CarUi.Toolbar.Title">
+<item name="android:textAppearance">@style/TextAppearance.CarUi.Widget.Toolbar.Title</item>
+<item name="android:textAlignment">viewStart</item>
+</style>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/attrs.xml -->
+<eat-comment/>
+<declare-styleable name="CarUi">
+<attr name="carUiBaseLayout" format="boolean"/>
+
+<attr name="carUiToolbar" format="boolean"/>
+
+<attr name="carUiActivity" format="boolean"/>
+</declare-styleable>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/priv-attrs.xml -->
+<eat-comment/>
+<declare-styleable name="CarUiArrowContainerView">
+<attr name="carUiHasArrow" format="boolean"/>
+
+<attr name="carUiArrowWidth" format="dimension"/>
+
+<attr name="carUiArrowHeight" format="dimension"/>
+
+<attr name="carUiArrowRadius" format="dimension"/>
+
+<attr name="carUiOffsetX" format="dimension"/>
+
+<attr name="carUiOffsetY" format="dimension"/>
+<attr name="carUiArrowGravity">
+<flag name="left" value="0x01"/>
+<flag name="top" value="0x02"/>
+<flag name="right" value="0x03"/>
+<flag name="bottom" value="0x04"/>
+</attr>
+
+<attr name="carUiArrowColor" format="color|reference"/>
+
+<attr name="carUiContentView" format="reference"/>
+
+<attr name="carUiContentViewDrawable" format="reference"/>
+</declare-styleable>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/attrs.xml -->
+<eat-comment/>
+<declare-styleable name="CarUiPreference">
+<attr name="carUiShowChevron" format="boolean"/>
+
+<attr name="car_ui_ux_restricted" format="boolean"/>
+
+<attr name="carUiClickableWhileDisabled" format="boolean"/>
+</declare-styleable>
+<declare-styleable name="CarUiRecyclerView">
+<attr name="enableDivider" format="boolean"/>
+
+<attr name="rotaryScrollEnabled" format="boolean"/>
+
+<attr name="numOfColumns" format="integer"/>
+<attr name="layoutStyle">
+<enum name="linear" value="0"/>
+
+<enum name="grid" value="1"/>
+
+</attr>
+<attr name="carUiSize">
+<enum name="small" value="0"/>
+
+<enum name="medium" value="1"/>
+
+<enum name="large" value="2"/>
+
+</attr>
+
+<attr name="android:orientation"/>
+
+<attr name="reverseLayout" format="boolean"/>
+
+<attr name="layoutManager" format="string"/>
+</declare-styleable>
+<declare-styleable name="CarUiToolbar">
+<attr name="title" format="string"/>
+
+<attr name="logo" format="reference"/>
+
+<attr name="searchHint" format="string"/>
+
+<attr name="showMenuItemsWhileSearching" format="boolean"/>
+
+<attr name="showBackground" format="boolean"/>
+
+<attr name="menuItems" format="reference"/>
+
+<attr name="showTabsInSubpage" format="boolean"/>
+</declare-styleable>
+<declare-styleable name="CarUiToolbarMenuItem">
+<attr name="id" format="reference"/>
+
+<attr name="visible" format="boolean"/>
+
+<attr name="search" format="boolean"/>
+
+<attr name="settings" format="boolean"/>
+
+<attr name="title"/>
+
+<attr name="carUiIcon" format="reference"/>
+
+<attr name="tinted" format="boolean"/>
+
+<attr name="showIconAndTitle" format="boolean"/>
+
+<attr name="checkable" format="boolean"/>
+
+<attr name="checked" format="boolean"/>
+
+<attr name="activatable" format="boolean"/>
+
+<attr name="activated" format="boolean"/>
+<attr name="displayBehavior">
+<enum name="always" value="0"/>
+
+<enum name="never" value="1"/>
+
+</attr>
+<attr name="uxRestrictions">
+<flag name="UX_RESTRICTIONS_NO_DIALPAD" value="1"/>
+<flag name="UX_RESTRICTIONS_NO_FILTERING" value="2"/>
+<flag name="UX_RESTRICTIONS_LIMIT_STRING_LENGTH" value="4"/>
+<flag name="UX_RESTRICTIONS_NO_KEYBOARD" value="8"/>
+<flag name="UX_RESTRICTIONS_NO_VIDEO" value="16"/>
+<flag name="UX_RESTRICTIONS_LIMIT_CONTENT" value="32"/>
+<flag name="UX_RESTRICTIONS_NO_SETUP" value="64"/>
+<flag name="UX_RESTRICTIONS_NO_TEXT_MESSAGE" value="128"/>
+<flag name="UX_RESTRICTIONS_NO_VOICE_TRANSCRIPTION" value="256"/>
+<flag name="UX_RESTRICTIONS_FULLY_RESTRICTED" value="511"/>
+</attr>
+
+<attr name="onClick" format="string"/>
+</declare-styleable>
+<declare-styleable name="CarUiTwoActionBasePreference">
+<attr name="carUiLayout" format="reference"/>
+
+<attr name="android:layout" format="reference"/>
+
+<attr name="widgetLayout" format="reference"/>
+
+<attr name="android:widgetLayout" format="reference"/>
+</declare-styleable>
+<declare-styleable name="CarUiTwoActionIconPreference">
+<attr name="secondaryActionIcon" format="reference"/>
+</declare-styleable>
+<declare-styleable name="CarUiTwoActionPreference">
+<attr name="actionShown" format="boolean"/>
+
+<attr name="actionEnabled" format="boolean"/>
+</declare-styleable>
+<declare-styleable name="CarUiTwoActionTextPreference"><attr name="secondaryActionStyle">
+<enum name="bordered" value="0"/>
+
+<enum name="borderless" value="1"/>
+
+</attr>
+
+<attr name="secondaryActionText" format="string"/>
+</declare-styleable>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/attrs.xml -->
+<eat-comment/>
+<declare-styleable name="FocusParkingView">
+<attr name="shouldRestoreFocus" format="boolean"/>
+</declare-styleable>
+<declare-styleable name="IFocusArea">
+<attr name="defaultFocus" format="reference"/>
+
+<attr name="defaultFocusOverridesHistory" format="boolean"/>
+
+<attr name="highlightPaddingStart" format="dimension"/>
+
+<attr name="highlightPaddingEnd" format="dimension"/>
+
+<attr name="highlightPaddingTop" format="dimension"/>
+
+<attr name="highlightPaddingBottom" format="dimension"/>
+
+<attr name="highlightPaddingHorizontal" format="dimension"/>
+
+<attr name="highlightPaddingVertical" format="dimension"/>
+
+<attr name="startBoundOffset" format="dimension"/>
+
+<attr name="endBoundOffset" format="dimension"/>
+
+<attr name="topBoundOffset" format="dimension"/>
+
+<attr name="bottomBoundOffset" format="dimension"/>
+
+<attr name="horizontalBoundOffset" format="dimension"/>
+
+<attr name="verticalBoundOffset" format="dimension"/>
+
+<attr name="nudgeLeftShortcut" format="reference"/>
+
+<attr name="nudgeRightShortcut" format="reference"/>
+
+<attr name="nudgeUpShortcut" format="reference"/>
+
+<attr name="nudgeDownShortcut" format="reference"/>
+
+<attr name="nudgeShortcut" format="reference"/>
+<attr name="nudgeShortcutDirection">
+<flag name="left" value="0x11"/>
+<flag name="right" value="0x42"/>
+<flag name="up" value="0x21"/>
+<flag name="down" value="0x82"/>
+</attr>
+
+<attr name="nudgeLeft" format="reference"/>
+
+<attr name="nudgeRight" format="reference"/>
+
+<attr name="nudgeUp" format="reference"/>
+
+<attr name="nudgeDown" format="reference"/>
+
+<attr name="nudgeLeftDisabled" format="boolean"/>
+
+<attr name="nudgeRightDisabled" format="boolean"/>
+
+<attr name="nudgeUpDisabled" format="boolean"/>
+
+<attr name="nudgeDownDisabled" format="boolean"/>
+
+<attr name="wrapAround" format="boolean"/>
+</declare-styleable>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values/priv-attrs.xml -->
+<eat-comment/>
+<declare-styleable name="Preference"><attr name="carUiPreferenceType">
+<enum name="preference" value="0"/>
+
+<enum name="dropdown" value="1"/>
+
+<enum name="primarySwitch" value="2"/>
+
+<enum name="twoaction" value="3"/>
+
+<enum name="twoactiontext" value="4"/>
+
+<enum name="twoactiontextborderless" value="5"/>
+
+<enum name="twoactionicon" value="6"/>
+
+<enum name="twoactionswitch" value="7"/>
+
+<enum name="edittext" value="8"/>
+
+<enum name="seekbardialog" value="9"/>
+
+<enum name="footer" value="10"/>
+
+<enum name="category" value="11"/>
+
+</attr>
+</declare-styleable>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res-overlayable/values/overlayable.xml -->
+<eat-comment/>
+<overlayable name="car-ui-lib">
+    <policy type="odm|oem|product|signature|system|vendor">
+      <item name="car_ui_app_styled_view_enter_anim" type="anim"></item>
+      <item name="car_ui_app_styled_view_exit_anim" type="anim"></item>
+      <item name="car_ui_ime_wide_screen_allowed_package_list" type="array"></item>
+      <item name="CarUiToolbarStyle" type="attr"></item>
+      <item name="actionEnabled" type="attr"></item>
+      <item name="actionShown" type="attr"></item>
+      <item name="activatable" type="attr"></item>
+      <item name="activated" type="attr"></item>
+      <item name="barrierAllowsGoneWidgets" type="attr"></item>
+      <item name="barrierDirection" type="attr"></item>
+      <item name="barrierMargin" type="attr"></item>
+      <item name="carUiActivity" type="attr"></item>
+      <item name="carUiBaseLayout" type="attr"></item>
+      <item name="carUiClickableWhileDisabled" type="attr"></item>
+      <item name="carUiIcon" type="attr"></item>
+      <item name="carUiLayout" type="attr"></item>
+      <item name="carUiPreferenceStyle" type="attr"></item>
+      <item name="carUiRecyclerViewStyle" type="attr"></item>
+      <item name="carUiShowChevron" type="attr"></item>
+      <item name="carUiSize" type="attr"></item>
+      <item name="carUiToolbar" type="attr"></item>
+      <item name="car_ui_ux_restricted" type="attr"></item>
+      <item name="chainUseRtl" type="attr"></item>
+      <item name="checkable" type="attr"></item>
+      <item name="checked" type="attr"></item>
+      <item name="constraintSet" type="attr"></item>
+      <item name="constraint_referenced_ids" type="attr"></item>
+      <item name="displayBehavior" type="attr"></item>
+      <item name="enableDivider" type="attr"></item>
+      <item name="flow_firstHorizontalBias" type="attr"></item>
+      <item name="flow_firstHorizontalStyle" type="attr"></item>
+      <item name="flow_firstVerticalBias" type="attr"></item>
+      <item name="flow_firstVerticalStyle" type="attr"></item>
+      <item name="flow_horizontalAlign" type="attr"></item>
+      <item name="flow_horizontalBias" type="attr"></item>
+      <item name="flow_horizontalGap" type="attr"></item>
+      <item name="flow_horizontalStyle" type="attr"></item>
+      <item name="flow_lastHorizontalBias" type="attr"></item>
+      <item name="flow_lastHorizontalStyle" type="attr"></item>
+      <item name="flow_lastVerticalBias" type="attr"></item>
+      <item name="flow_lastVerticalStyle" type="attr"></item>
+      <item name="flow_maxElementsWrap" type="attr"></item>
+      <item name="flow_verticalAlign" type="attr"></item>
+      <item name="flow_verticalBias" type="attr"></item>
+      <item name="flow_verticalGap" type="attr"></item>
+      <item name="flow_verticalStyle" type="attr"></item>
+      <item name="flow_wrapMode" type="attr"></item>
+      <item name="id" type="attr"></item>
+      <item name="layoutDescription" type="attr"></item>
+      <item name="layoutManager" type="attr"></item>
+      <item name="layoutStyle" type="attr"></item>
+      <item name="layout_constrainedHeight" type="attr"></item>
+      <item name="layout_constrainedWidth" type="attr"></item>
+      <item name="layout_constraintBaseline_creator" type="attr"></item>
+      <item name="layout_constraintBaseline_toBaselineOf" type="attr"></item>
+      <item name="layout_constraintBottom_creator" type="attr"></item>
+      <item name="layout_constraintBottom_toBottomOf" type="attr"></item>
+      <item name="layout_constraintBottom_toTopOf" type="attr"></item>
+      <item name="layout_constraintCircle" type="attr"></item>
+      <item name="layout_constraintCircleAngle" type="attr"></item>
+      <item name="layout_constraintCircleRadius" type="attr"></item>
+      <item name="layout_constraintDimensionRatio" type="attr"></item>
+      <item name="layout_constraintEnd_toEndOf" type="attr"></item>
+      <item name="layout_constraintEnd_toStartOf" type="attr"></item>
+      <item name="layout_constraintGuide_begin" type="attr"></item>
+      <item name="layout_constraintGuide_end" type="attr"></item>
+      <item name="layout_constraintGuide_percent" type="attr"></item>
+      <item name="layout_constraintHeight_default" type="attr"></item>
+      <item name="layout_constraintHeight_max" type="attr"></item>
+      <item name="layout_constraintHeight_min" type="attr"></item>
+      <item name="layout_constraintHeight_percent" type="attr"></item>
+      <item name="layout_constraintHorizontal_bias" type="attr"></item>
+      <item name="layout_constraintHorizontal_chainStyle" type="attr"></item>
+      <item name="layout_constraintHorizontal_weight" type="attr"></item>
+      <item name="layout_constraintLeft_creator" type="attr"></item>
+      <item name="layout_constraintLeft_toLeftOf" type="attr"></item>
+      <item name="layout_constraintLeft_toRightOf" type="attr"></item>
+      <item name="layout_constraintRight_creator" type="attr"></item>
+      <item name="layout_constraintRight_toLeftOf" type="attr"></item>
+      <item name="layout_constraintRight_toRightOf" type="attr"></item>
+      <item name="layout_constraintStart_toEndOf" type="attr"></item>
+      <item name="layout_constraintStart_toStartOf" type="attr"></item>
+      <item name="layout_constraintTag" type="attr"></item>
+      <item name="layout_constraintTop_creator" type="attr"></item>
+      <item name="layout_constraintTop_toBottomOf" type="attr"></item>
+      <item name="layout_constraintTop_toTopOf" type="attr"></item>
+      <item name="layout_constraintVertical_bias" type="attr"></item>
+      <item name="layout_constraintVertical_chainStyle" type="attr"></item>
+      <item name="layout_constraintVertical_weight" type="attr"></item>
+      <item name="layout_constraintWidth_default" type="attr"></item>
+      <item name="layout_constraintWidth_max" type="attr"></item>
+      <item name="layout_constraintWidth_min" type="attr"></item>
+      <item name="layout_constraintWidth_percent" type="attr"></item>
+      <item name="layout_editor_absoluteX" type="attr"></item>
+      <item name="layout_editor_absoluteY" type="attr"></item>
+      <item name="layout_goneMarginBottom" type="attr"></item>
+      <item name="layout_goneMarginEnd" type="attr"></item>
+      <item name="layout_goneMarginLeft" type="attr"></item>
+      <item name="layout_goneMarginRight" type="attr"></item>
+      <item name="layout_goneMarginStart" type="attr"></item>
+      <item name="layout_goneMarginTop" type="attr"></item>
+      <item name="layout_optimizationLevel" type="attr"></item>
+      <item name="logo" type="attr"></item>
+      <item name="menuItems" type="attr"></item>
+      <item name="numOfColumns" type="attr"></item>
+      <item name="onClick" type="attr"></item>
+      <item name="preferenceStyle" type="attr"></item>
+      <item name="reverseLayout" type="attr"></item>
+      <item name="rotaryScrollEnabled" type="attr"></item>
+      <item name="search" type="attr"></item>
+      <item name="searchHint" type="attr"></item>
+      <item name="secondaryActionIcon" type="attr"></item>
+      <item name="secondaryActionStyle" type="attr"></item>
+      <item name="secondaryActionText" type="attr"></item>
+      <item name="settings" type="attr"></item>
+      <item name="showBackground" type="attr"></item>
+      <item name="showIconAndTitle" type="attr"></item>
+      <item name="showMenuItemsWhileSearching" type="attr"></item>
+      <item name="showTabsInSubpage" type="attr"></item>
+      <item name="state_ux_restricted" type="attr"></item>
+      <item name="tinted" type="attr"></item>
+      <item name="title" type="attr"></item>
+      <item name="uxRestrictions" type="attr"></item>
+      <item name="visible" type="attr"></item>
+      <item name="widgetLayout" type="attr"></item>
+      <item name="car_ui_alert_dialog_force_dismiss_button" type="bool"></item>
+      <item name="car_ui_escrow_check_components_automatically" type="bool"></item>
+      <item name="car_ui_ime_wide_screen_aligned_left" type="bool"></item>
+      <item name="car_ui_ime_wide_screen_allow_app_hide_content_area" type="bool"></item>
+      <item name="car_ui_is_light_theme" type="bool"></item>
+      <item name="car_ui_list_item_single_line_title" type="bool"></item>
+      <item name="car_ui_omit_display_cut_out_insets" type="bool"></item>
+      <item name="car_ui_preference_list_instant_change_callback" type="bool"></item>
+      <item name="car_ui_preference_list_show_full_screen" type="bool"></item>
+      <item name="car_ui_preference_show_chevron" type="bool"></item>
+      <item name="car_ui_preference_two_action_switch_widget_focusable" type="bool"></item>
+      <item name="car_ui_scrollbar_enable" type="bool"></item>
+      <item name="car_ui_toolbar_logo_fills_nav_icon_space" type="bool"></item>
+      <item name="car_ui_toolbar_menuitem_individual_click_listeners" type="bool"></item>
+      <item name="car_ui_toolbar_nav_icon_reserve_space" type="bool"></item>
+      <item name="car_ui_toolbar_show_logo" type="bool"></item>
+      <item name="car_ui_toolbar_tab_flexible_layout" type="bool"></item>
+      <item name="car_ui_toolbar_tabs_on_second_row" type="bool"></item>
+      <item name="car_ui_activity_background_color" type="color"></item>
+      <item name="car_ui_color_accent" type="color"></item>
+      <item name="car_ui_dialog_icon_color" type="color"></item>
+      <item name="car_ui_ime_wide_screen_description_color" type="color"></item>
+      <item name="car_ui_ime_wide_screen_description_title_color" type="color"></item>
+      <item name="car_ui_ime_wide_screen_divider_color" type="color"></item>
+      <item name="car_ui_ime_wide_screen_error_text_color" type="color"></item>
+      <item name="car_ui_ime_wide_screen_search_item_sub_title_color" type="color"></item>
+      <item name="car_ui_ime_wide_screen_search_item_title_color" type="color"></item>
+      <item name="car_ui_list_item_divider" type="color"></item>
+      <item name="car_ui_preference_icon_color" type="color"></item>
+      <item name="car_ui_preference_two_action_divider_color" type="color"></item>
+      <item name="car_ui_recyclerview_divider_color" type="color"></item>
+      <item name="car_ui_ripple_color" type="color"></item>
+      <item name="car_ui_scrollbar_arrow" type="color"></item>
+      <item name="car_ui_scrollbar_thumb" type="color"></item>
+      <item name="car_ui_text_color_hint" type="color"></item>
+      <item name="car_ui_text_color_primary" type="color"></item>
+      <item name="car_ui_text_color_secondary" type="color"></item>
+      <item name="car_ui_toolbar_menu_item_icon_background_color" type="color"></item>
+      <item name="car_ui_toolbar_menu_item_icon_color" type="color"></item>
+      <item name="car_ui_toolbar_nav_icon_color" type="color"></item>
+      <item name="car_ui_toolbar_search_hint_text_color" type="color"></item>
+      <item name="car_ui_toolbar_tab_item_selector" type="color"></item>
+      <item name="car_ui_toolbar_tab_selected_color" type="color"></item>
+      <item name="car_ui_toolbar_tab_unselected_color" type="color"></item>
+      <item name="car_ui_app_styled_dialog_dim_amount" type="dimen"></item>
+      <item name="car_ui_app_styled_dialog_height" type="dimen"></item>
+      <item name="car_ui_app_styled_dialog_position_x" type="dimen"></item>
+      <item name="car_ui_app_styled_dialog_position_y" type="dimen"></item>
+      <item name="car_ui_app_styled_dialog_width" type="dimen"></item>
+      <item name="car_ui_body1_size" type="dimen"></item>
+      <item name="car_ui_body2_size" type="dimen"></item>
+      <item name="car_ui_body3_size" type="dimen"></item>
+      <item name="car_ui_button_disabled_alpha" type="dimen"></item>
+      <item name="car_ui_dialog_edittext_height" type="dimen"></item>
+      <item name="car_ui_dialog_edittext_margin_bottom" type="dimen"></item>
+      <item name="car_ui_dialog_edittext_margin_end" type="dimen"></item>
+      <item name="car_ui_dialog_edittext_margin_start" type="dimen"></item>
+      <item name="car_ui_dialog_edittext_margin_top" type="dimen"></item>
+      <item name="car_ui_dialog_icon_size" type="dimen"></item>
+      <item name="car_ui_dialog_title_margin" type="dimen"></item>
+      <item name="car_ui_divider_width" type="dimen"></item>
+      <item name="car_ui_header_list_item_text_start_margin" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_action_button_height" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_action_button_margin_bottom" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_action_button_margin_left" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_action_button_text_size" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_description_padding_top" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_description_text_size" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_description_title_margin_top" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_description_title_padding_left" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_description_title_text_size" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_divider_width" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_error_text_padding_start" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_error_text_size" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_input_area_height" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_input_area_padding_end" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_input_area_padding_top" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_input_edit_text_padding_left" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_input_edit_text_padding_right" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_input_edit_text_size" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_input_padding_start" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_keyboard_area_padding_bottom" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_keyboard_area_padding_end" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_keyboard_area_padding_start" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_keyboard_width" type="dimen"></item>
+      <item name="car_ui_ime_wide_screen_recycler_view_padding_top" type="dimen"></item>
+      <item name="car_ui_ime_wide_search_item_icon_size" type="dimen"></item>
+      <item name="car_ui_ime_wide_search_item_secondary_image_padding_left" type="dimen"></item>
+      <item name="car_ui_ime_wide_search_item_sub_title_padding_left" type="dimen"></item>
+      <item name="car_ui_ime_wide_search_item_sub_title_padding_top" type="dimen"></item>
+      <item name="car_ui_ime_wide_search_item_sub_title_text_size" type="dimen"></item>
+      <item name="car_ui_ime_wide_search_item_title_padding_left" type="dimen"></item>
+      <item name="car_ui_ime_wide_search_item_title_padding_top" type="dimen"></item>
+      <item name="car_ui_ime_wide_search_item_title_text_size" type="dimen"></item>
+      <item name="car_ui_list_item_action_divider_height" type="dimen"></item>
+      <item name="car_ui_list_item_action_divider_width" type="dimen"></item>
+      <item name="car_ui_list_item_avatar_icon_height" type="dimen"></item>
+      <item name="car_ui_list_item_avatar_icon_width" type="dimen"></item>
+      <item name="car_ui_list_item_check_box_end_inset" type="dimen"></item>
+      <item name="car_ui_list_item_check_box_height" type="dimen"></item>
+      <item name="car_ui_list_item_check_box_icon_container_width" type="dimen"></item>
+      <item name="car_ui_list_item_check_box_start_inset" type="dimen"></item>
+      <item name="car_ui_list_item_content_icon_height" type="dimen"></item>
+      <item name="car_ui_list_item_content_icon_width" type="dimen"></item>
+      <item name="car_ui_list_item_end_inset" type="dimen"></item>
+      <item name="car_ui_list_item_header_height" type="dimen"></item>
+      <item name="car_ui_list_item_header_start_inset" type="dimen"></item>
+      <item name="car_ui_list_item_height" type="dimen"></item>
+      <item name="car_ui_list_item_icon_container_width" type="dimen"></item>
+      <item name="car_ui_list_item_icon_size" type="dimen"></item>
+      <item name="car_ui_list_item_radio_button_end_inset" type="dimen"></item>
+      <item name="car_ui_list_item_radio_button_height" type="dimen"></item>
+      <item name="car_ui_list_item_radio_button_icon_container_width" type="dimen"></item>
+      <item name="car_ui_list_item_radio_button_start_inset" type="dimen"></item>
+      <item name="car_ui_list_item_start_inset" type="dimen"></item>
+      <item name="car_ui_list_item_supplemental_icon_size" type="dimen"></item>
+      <item name="car_ui_list_item_text_no_icon_start_margin" type="dimen"></item>
+      <item name="car_ui_list_item_text_start_margin" type="dimen"></item>
+      <item name="car_ui_margin" type="dimen"></item>
+      <item name="car_ui_padding_0" type="dimen"></item>
+      <item name="car_ui_padding_1" type="dimen"></item>
+      <item name="car_ui_padding_2" type="dimen"></item>
+      <item name="car_ui_padding_3" type="dimen"></item>
+      <item name="car_ui_padding_4" type="dimen"></item>
+      <item name="car_ui_padding_5" type="dimen"></item>
+      <item name="car_ui_padding_6" type="dimen"></item>
+      <item name="car_ui_padding_7" type="dimen"></item>
+      <item name="car_ui_padding_8" type="dimen"></item>
+      <item name="car_ui_preference_category_icon_margin_end" type="dimen"></item>
+      <item name="car_ui_preference_category_icon_size" type="dimen"></item>
+      <item name="car_ui_preference_category_min_height" type="dimen"></item>
+      <item name="car_ui_preference_content_margin_bottom" type="dimen"></item>
+      <item name="car_ui_preference_content_margin_top" type="dimen"></item>
+      <item name="car_ui_preference_dropdown_padding_start" type="dimen"></item>
+      <item name="car_ui_preference_edit_text_dialog_margin_bottom" type="dimen"></item>
+      <item name="car_ui_preference_edit_text_dialog_margin_top" type="dimen"></item>
+      <item name="car_ui_preference_edit_text_dialog_message_margin_bottom" type="dimen"></item>
+      <item name="car_ui_preference_edit_text_dialog_message_margin_end" type="dimen"></item>
+      <item name="car_ui_preference_edit_text_dialog_message_margin_start" type="dimen"></item>
+      <item name="car_ui_preference_edit_text_dialog_text_margin_end" type="dimen"></item>
+      <item name="car_ui_preference_edit_text_dialog_text_margin_start" type="dimen"></item>
+      <item name="car_ui_preference_icon_margin_end" type="dimen"></item>
+      <item name="car_ui_preference_icon_size" type="dimen"></item>
+      <item name="car_ui_primary_icon_size" type="dimen"></item>
+      <item name="car_ui_recyclerview_divider_bottom_margin" type="dimen"></item>
+      <item name="car_ui_recyclerview_divider_end_margin" type="dimen"></item>
+      <item name="car_ui_recyclerview_divider_height" type="dimen"></item>
+      <item name="car_ui_recyclerview_divider_start_margin" type="dimen"></item>
+      <item name="car_ui_recyclerview_divider_top_margin" type="dimen"></item>
+      <item name="car_ui_scrollbar_button_size" type="dimen"></item>
+      <item name="car_ui_scrollbar_container_width" type="dimen"></item>
+      <item name="car_ui_scrollbar_decelerate_interpolator_factor" type="dimen"></item>
+      <item name="car_ui_scrollbar_deceleration_times_divisor" type="dimen"></item>
+      <item name="car_ui_scrollbar_margin" type="dimen"></item>
+      <item name="car_ui_scrollbar_milliseconds_per_inch" type="dimen"></item>
+      <item name="car_ui_scrollbar_min_thumb_height" type="dimen"></item>
+      <item name="car_ui_scrollbar_padding_bottom" type="dimen"></item>
+      <item name="car_ui_scrollbar_padding_top" type="dimen"></item>
+      <item name="car_ui_scrollbar_separator_margin" type="dimen"></item>
+      <item name="car_ui_scrollbar_thumb_radius" type="dimen"></item>
+      <item name="car_ui_scrollbar_thumb_width" type="dimen"></item>
+      <item name="car_ui_shortcuts_popup_width" type="dimen"></item>
+      <item name="car_ui_sub1_size" type="dimen"></item>
+      <item name="car_ui_sub2_size" type="dimen"></item>
+      <item name="car_ui_sub3_size" type="dimen"></item>
+      <item name="car_ui_toolbar_bottom_inset" type="dimen"></item>
+      <item name="car_ui_toolbar_bottom_view_height" type="dimen"></item>
+      <item name="car_ui_toolbar_end_inset" type="dimen"></item>
+      <item name="car_ui_toolbar_first_row_height" type="dimen"></item>
+      <item name="car_ui_toolbar_logo_size" type="dimen"></item>
+      <item name="car_ui_toolbar_margin" type="dimen"></item>
+      <item name="car_ui_toolbar_menu_item_icon_background_size" type="dimen"></item>
+      <item name="car_ui_toolbar_menu_item_icon_ripple_radius" type="dimen"></item>
+      <item name="car_ui_toolbar_menu_item_icon_size" type="dimen"></item>
+      <item name="car_ui_toolbar_menu_item_margin" type="dimen"></item>
+      <item name="car_ui_toolbar_nav_icon_size" type="dimen"></item>
+      <item name="car_ui_toolbar_row_height" type="dimen"></item>
+      <item name="car_ui_toolbar_search_close_icon_container_width" type="dimen"></item>
+      <item name="car_ui_toolbar_search_close_icon_size" type="dimen"></item>
+      <item name="car_ui_toolbar_search_height" type="dimen"></item>
+      <item name="car_ui_toolbar_search_search_icon_container_width" type="dimen"></item>
+      <item name="car_ui_toolbar_search_search_icon_size" type="dimen"></item>
+      <item name="car_ui_toolbar_second_row_height" type="dimen"></item>
+      <item name="car_ui_toolbar_separator_height" type="dimen"></item>
+      <item name="car_ui_toolbar_start_inset" type="dimen"></item>
+      <item name="car_ui_toolbar_tab_icon_height" type="dimen"></item>
+      <item name="car_ui_toolbar_tab_icon_width" type="dimen"></item>
+      <item name="car_ui_toolbar_tab_padding_x" type="dimen"></item>
+      <item name="car_ui_toolbar_tab_text_width" type="dimen"></item>
+      <item name="car_ui_toolbar_title_logo_padding" type="dimen"></item>
+      <item name="car_ui_toolbar_title_margin_start" type="dimen"></item>
+      <item name="car_ui_toolbar_title_no_logo_margin_start" type="dimen"></item>
+      <item name="car_ui_toolbar_top_inset" type="dimen"></item>
+      <item name="car_ui_touch_target_height" type="dimen"></item>
+      <item name="car_ui_touch_target_size" type="dimen"></item>
+      <item name="car_ui_touch_target_width" type="dimen"></item>
+      <item name="wrap_content" type="dimen"></item>
+      <item name="car_ui_activity_background" type="drawable"></item>
+      <item name="car_ui_app_styled_view_background" type="drawable"></item>
+      <item name="car_ui_divider" type="drawable"></item>
+      <item name="car_ui_icon_add" type="drawable"></item>
+      <item name="car_ui_icon_arrow_back" type="drawable"></item>
+      <item name="car_ui_icon_chevron" type="drawable"></item>
+      <item name="car_ui_icon_close" type="drawable"></item>
+      <item name="car_ui_icon_delete" type="drawable"></item>
+      <item name="car_ui_icon_down" type="drawable"></item>
+      <item name="car_ui_icon_edit" type="drawable"></item>
+      <item name="car_ui_icon_error" type="drawable"></item>
+      <item name="car_ui_icon_lock" type="drawable"></item>
+      <item name="car_ui_icon_overflow_menu" type="drawable"></item>
+      <item name="car_ui_icon_save" type="drawable"></item>
+      <item name="car_ui_icon_search" type="drawable"></item>
+      <item name="car_ui_icon_search_nav_icon" type="drawable"></item>
+      <item name="car_ui_icon_settings" type="drawable"></item>
+      <item name="car_ui_ime_wide_screen_background" type="drawable"></item>
+      <item name="car_ui_ime_wide_screen_content_area_background" type="drawable"></item>
+      <item name="car_ui_ime_wide_screen_input_area_background" type="drawable"></item>
+      <item name="car_ui_ime_wide_screen_input_area_tint_color" type="drawable"></item>
+      <item name="car_ui_ime_wide_screen_input_area_tint_error_color" type="drawable"></item>
+      <item name="car_ui_ime_wide_screen_no_content_background" type="drawable"></item>
+      <item name="car_ui_list_header_background" type="drawable"></item>
+      <item name="car_ui_list_item_avatar_icon_outline" type="drawable"></item>
+      <item name="car_ui_list_item_background" type="drawable"></item>
+      <item name="car_ui_list_item_divider" type="drawable"></item>
+      <item name="car_ui_list_limiting_message_background" type="drawable"></item>
+      <item name="car_ui_preference_icon_chevron" type="drawable"></item>
+      <item name="car_ui_preference_icon_chevron_disabled" type="drawable"></item>
+      <item name="car_ui_preference_icon_chevron_enabled" type="drawable"></item>
+      <item name="car_ui_recyclerview_button_ripple_background" type="drawable"></item>
+      <item name="car_ui_recyclerview_divider" type="drawable"></item>
+      <item name="car_ui_recyclerview_ic_down" type="drawable"></item>
+      <item name="car_ui_recyclerview_ic_up" type="drawable"></item>
+      <item name="car_ui_recyclerview_scrollbar_thumb" type="drawable"></item>
+      <item name="car_ui_toolbar_background" type="drawable"></item>
+      <item name="car_ui_toolbar_menu_item_divider" type="drawable"></item>
+      <item name="car_ui_toolbar_menu_item_icon_background" type="drawable"></item>
+      <item name="car_ui_toolbar_menu_item_icon_ripple" type="drawable"></item>
+      <item name="car_ui_toolbar_search_close_icon" type="drawable"></item>
+      <item name="car_ui_toolbar_search_search_icon" type="drawable"></item>
+      <item name="action_widget_container" type="id"></item>
+      <item name="car_ui_alert_icon" type="id"></item>
+      <item name="car_ui_alert_subtitle" type="id"></item>
+      <item name="car_ui_alert_title" type="id"></item>
+      <item name="car_ui_base_layout_content_container" type="id"></item>
+      <item name="car_ui_closeKeyboard" type="id"></item>
+      <item name="car_ui_component_reference" type="id"></item>
+      <item name="car_ui_contentAreaAutomotive" type="id"></item>
+      <item name="car_ui_content_left_drawable" type="id"></item>
+      <item name="car_ui_content_name" type="id"></item>
+      <item name="car_ui_divider" type="id"></item>
+      <item name="car_ui_first_action_container" type="id"></item>
+      <item name="car_ui_focus_area" type="id"></item>
+      <item name="car_ui_fullscreenArea" type="id"></item>
+      <item name="car_ui_imeWideScreenInputArea" type="id"></item>
+      <item name="car_ui_ime_carboard_area" type="id"></item>
+      <item name="car_ui_ime_surface" type="id"></item>
+      <item name="car_ui_inputExtractActionAutomotive" type="id"></item>
+      <item name="car_ui_inputExtractEditTextContainer" type="id"></item>
+      <item name="car_ui_link" type="id"></item>
+      <item name="car_ui_list_item_action_container" type="id"></item>
+      <item name="car_ui_list_item_action_container_touch_interceptor" type="id"></item>
+      <item name="car_ui_list_item_action_divider" type="id"></item>
+      <item name="car_ui_list_item_avatar_icon" type="id"></item>
+      <item name="car_ui_list_item_body" type="id"></item>
+      <item name="car_ui_list_item_checkbox_widget" type="id"></item>
+      <item name="car_ui_list_item_content_icon" type="id"></item>
+      <item name="car_ui_list_item_end_guideline" type="id"></item>
+      <item name="car_ui_list_item_icon" type="id"></item>
+      <item name="car_ui_list_item_icon_container" type="id"></item>
+      <item name="car_ui_list_item_radio_button_widget" type="id"></item>
+      <item name="car_ui_list_item_reduced_touch_interceptor" type="id"></item>
+      <item name="car_ui_list_item_start_guideline" type="id"></item>
+      <item name="car_ui_list_item_supplemental_icon" type="id"></item>
+      <item name="car_ui_list_item_switch_widget" type="id"></item>
+      <item name="car_ui_list_item_text_container" type="id"></item>
+      <item name="car_ui_list_item_title" type="id"></item>
+      <item name="car_ui_list_item_touch_interceptor" type="id"></item>
+      <item name="car_ui_list_limiting_message" type="id"></item>
+      <item name="car_ui_preference_container_without_widget" type="id"></item>
+      <item name="car_ui_preference_fragment_container" type="id"></item>
+      <item name="car_ui_recycler_view" type="id"></item>
+      <item name="car_ui_scroll_bar" type="id"></item>
+      <item name="car_ui_scrollbar_page_down" type="id"></item>
+      <item name="car_ui_scrollbar_page_up" type="id"></item>
+      <item name="car_ui_scrollbar_thumb" type="id"></item>
+      <item name="car_ui_scrollbar_track" type="id"></item>
+      <item name="car_ui_second_action_container" type="id"></item>
+      <item name="car_ui_secondary_action" type="id"></item>
+      <item name="car_ui_secondary_action_concrete" type="id"></item>
+      <item name="car_ui_shortcuts_contentView" type="id"></item>
+      <item name="car_ui_toolbar_background" type="id"></item>
+      <item name="car_ui_toolbar_bottom_guideline" type="id"></item>
+      <item name="car_ui_toolbar_bottom_styleable" type="id"></item>
+      <item name="car_ui_toolbar_end_guideline" type="id"></item>
+      <item name="car_ui_toolbar_logo" type="id"></item>
+      <item name="car_ui_toolbar_menu_item_icon" type="id"></item>
+      <item name="car_ui_toolbar_menu_item_icon_container" type="id"></item>
+      <item name="car_ui_toolbar_menu_item_switch" type="id"></item>
+      <item name="car_ui_toolbar_menu_item_text" type="id"></item>
+      <item name="car_ui_toolbar_menu_item_text_with_icon" type="id"></item>
+      <item name="car_ui_toolbar_menu_items_container" type="id"></item>
+      <item name="car_ui_toolbar_nav_icon" type="id"></item>
+      <item name="car_ui_toolbar_nav_icon_container" type="id"></item>
+      <item name="car_ui_toolbar_progress_bar" type="id"></item>
+      <item name="car_ui_toolbar_row_separator" type="id"></item>
+      <item name="car_ui_toolbar_row_separator_guideline" type="id"></item>
+      <item name="car_ui_toolbar_search_bar" type="id"></item>
+      <item name="car_ui_toolbar_search_close" type="id"></item>
+      <item name="car_ui_toolbar_search_icon" type="id"></item>
+      <item name="car_ui_toolbar_search_view_container" type="id"></item>
+      <item name="car_ui_toolbar_start_guideline" type="id"></item>
+      <item name="car_ui_toolbar_subtitle" type="id"></item>
+      <item name="car_ui_toolbar_tab_item_icon" type="id"></item>
+      <item name="car_ui_toolbar_tab_item_text" type="id"></item>
+      <item name="car_ui_toolbar_tabs" type="id"></item>
+      <item name="car_ui_toolbar_title" type="id"></item>
+      <item name="car_ui_toolbar_title_container" type="id"></item>
+      <item name="car_ui_toolbar_title_logo" type="id"></item>
+      <item name="car_ui_toolbar_title_logo_container" type="id"></item>
+      <item name="car_ui_toolbar_top_guideline" type="id"></item>
+      <item name="car_ui_wideScreenClearData" type="id"></item>
+      <item name="car_ui_wideScreenDescription" type="id"></item>
+      <item name="car_ui_wideScreenDescriptionTitle" type="id"></item>
+      <item name="car_ui_wideScreenError" type="id"></item>
+      <item name="car_ui_wideScreenErrorMessage" type="id"></item>
+      <item name="car_ui_wideScreenExtractedTextIcon" type="id"></item>
+      <item name="car_ui_wideScreenInputArea" type="id"></item>
+      <item name="car_ui_wideScreenSearchResultList" type="id"></item>
+      <item name="container" type="id"></item>
+      <item name="list" type="id"></item>
+      <item name="nested_recycler_view_layout" type="id"></item>
+      <item name="radio_button" type="id"></item>
+      <item name="recycler_view" type="id"></item>
+      <item name="search" type="id"></item>
+      <item name="seek_bar" type="id"></item>
+      <item name="seek_bar_text_left" type="id"></item>
+      <item name="seek_bar_text_right" type="id"></item>
+      <item name="seek_bar_text_top" type="id"></item>
+      <item name="seekbar" type="id"></item>
+      <item name="seekbar_value" type="id"></item>
+      <item name="spinner" type="id"></item>
+      <item name="textbox" type="id"></item>
+      <item name="title_template" type="id"></item>
+      <item name="toolbar" type="id"></item>
+      <item name="car_ui_default_max_string_length" type="integer"></item>
+      <item name="car_ui_scrollbar_longpress_initial_delay" type="integer"></item>
+      <item name="car_ui_scrollbar_longpress_repeat_interval" type="integer"></item>
+      <item name="car_ui_alert_dialog_edit_text" type="layout"></item>
+      <item name="car_ui_alert_dialog_list" type="layout"></item>
+      <item name="car_ui_alert_dialog_title_with_subtitle" type="layout"></item>
+      <item name="car_ui_base_layout" type="layout"></item>
+      <item name="car_ui_base_layout_toolbar" type="layout"></item>
+      <item name="car_ui_header_list_item" type="layout"></item>
+      <item name="car_ui_ims_wide_screen_input_view" type="layout"></item>
+      <item name="car_ui_list_item" type="layout"></item>
+      <item name="car_ui_list_item_2" type="layout"></item>
+      <item name="car_ui_list_item_compact" type="layout"></item>
+      <item name="car_ui_list_limiting_message" type="layout"></item>
+      <item name="car_ui_list_preference" type="layout"></item>
+      <item name="car_ui_list_preference_with_toolbar" type="layout"></item>
+      <item name="car_ui_preference" type="layout"></item>
+      <item name="car_ui_preference_category" type="layout"></item>
+      <item name="car_ui_preference_chevron" type="layout"></item>
+      <item name="car_ui_preference_dialog_edittext" type="layout"></item>
+      <item name="car_ui_preference_dropdown" type="layout"></item>
+      <item name="car_ui_preference_footer" type="layout"></item>
+      <item name="car_ui_preference_fragment" type="layout"></item>
+      <item name="car_ui_preference_fragment_with_toolbar" type="layout"></item>
+      <item name="car_ui_preference_primary_switch" type="layout"></item>
+      <item name="car_ui_preference_two_action_icon" type="layout"></item>
+      <item name="car_ui_preference_two_action_switch" type="layout"></item>
+      <item name="car_ui_preference_two_action_text" type="layout"></item>
+      <item name="car_ui_preference_two_action_text_borderless" type="layout"></item>
+      <item name="car_ui_preference_widget_checkbox" type="layout"></item>
+      <item name="car_ui_preference_widget_seekbar" type="layout"></item>
+      <item name="car_ui_preference_widget_switch" type="layout"></item>
+      <item name="car_ui_radio_button_preference_widget" type="layout"></item>
+      <item name="car_ui_recycler_view" type="layout"></item>
+      <item name="car_ui_recycler_view_item" type="layout"></item>
+      <item name="car_ui_recycler_view_no_scrollbar" type="layout"></item>
+      <item name="car_ui_recyclerview_scrollbar" type="layout"></item>
+      <item name="car_ui_seekbar_dialog" type="layout"></item>
+      <item name="car_ui_shortcut_popup_item" type="layout"></item>
+      <item name="car_ui_toolbar" type="layout"></item>
+      <item name="car_ui_toolbar_menu_item" type="layout"></item>
+      <item name="car_ui_toolbar_menu_item_primary" type="layout"></item>
+      <item name="car_ui_toolbar_search_view" type="layout"></item>
+      <item name="car_ui_toolbar_tab_item" type="layout"></item>
+      <item name="car_ui_toolbar_tab_item_flexible" type="layout"></item>
+      <item name="car_ui_toolbar_tab_item_layout" type="layout"></item>
+      <item name="car_ui_toolbar_tab_item_layout_flexible" type="layout"></item>
+      <item name="car_ui_toolbar_two_row" type="layout"></item>
+      <item name="car_ui_two_action_preference" type="layout"></item>
+      <item name="car_ui_keep" type="raw"></item>
+      <item name="car_ui_alert_dialog_default_button" type="string"></item>
+      <item name="car_ui_dialog_preference_negative" type="string"></item>
+      <item name="car_ui_dialog_preference_positive" type="string"></item>
+      <item name="car_ui_ellipsis" type="string"></item>
+      <item name="car_ui_ime_wide_screen_system_property_name" type="string"></item>
+      <item name="car_ui_installer_process_name" type="string"></item>
+      <item name="car_ui_plugin_package_provider_authority_name" type="string"></item>
+      <item name="car_ui_preference_switch_off" type="string"></item>
+      <item name="car_ui_preference_switch_on" type="string"></item>
+      <item name="car_ui_restricted_while_driving" type="string"></item>
+      <item name="car_ui_scrollbar_component" type="string"></item>
+      <item name="car_ui_scrollbar_page_down_button" type="string"></item>
+      <item name="car_ui_scrollbar_page_up_button" type="string"></item>
+      <item name="car_ui_scrolling_limited_message" type="string"></item>
+      <item name="car_ui_toolbar_default_search_hint" type="string"></item>
+      <item name="car_ui_toolbar_menu_item_overflow_title" type="string"></item>
+      <item name="car_ui_toolbar_menu_item_search_title" type="string"></item>
+      <item name="car_ui_toolbar_menu_item_settings_title" type="string"></item>
+      <item name="car_ui_toolbar_nav_icon_content_description" type="string"></item>
+      <item name="CarUiPreferenceTheme" type="style"></item>
+      <item name="CarUiPreferenceTheme.WithToolbar" type="style"></item>
+      <item name="Preference.CarUi" type="style"></item>
+      <item name="Preference.CarUi.Category" type="style"></item>
+      <item name="Preference.CarUi.CheckBoxPreference" type="style"></item>
+      <item name="Preference.CarUi.DialogPreference" type="style"></item>
+      <item name="Preference.CarUi.DialogPreference.EditTextPreference" type="style"></item>
+      <item name="Preference.CarUi.DialogSeekBarPreference" type="style"></item>
+      <item name="Preference.CarUi.DialogSeekBarPreference.LeftText" type="style"></item>
+      <item name="Preference.CarUi.DialogSeekBarPreference.RightText" type="style"></item>
+      <item name="Preference.CarUi.DialogSeekBarPreference.Seekbar" type="style"></item>
+      <item name="Preference.CarUi.DialogSeekBarPreference.TopText" type="style"></item>
+      <item name="Preference.CarUi.Divider" type="style"></item>
+      <item name="Preference.CarUi.DropDown" type="style"></item>
+      <item name="Preference.CarUi.Icon" type="style"></item>
+      <item name="Preference.CarUi.Information" type="style"></item>
+      <item name="Preference.CarUi.Preference" type="style"></item>
+      <item name="Preference.CarUi.PreferenceScreen" type="style"></item>
+      <item name="Preference.CarUi.SeekBarPreference" type="style"></item>
+      <item name="Preference.CarUi.SwitchPreference" type="style"></item>
+      <item name="PreferenceFragment.CarUi" type="style"></item>
+      <item name="PreferenceFragment.CarUi.WithToolbar" type="style"></item>
+      <item name="PreferenceFragmentList.CarUi" type="style"></item>
+      <item name="TextAppearance.CarUi" type="style"></item>
+      <item name="TextAppearance.CarUi.AlertDialog.Subtitle" type="style"></item>
+      <item name="TextAppearance.CarUi.AlertDialog.Title" type="style"></item>
+      <item name="TextAppearance.CarUi.Body1" type="style"></item>
+      <item name="TextAppearance.CarUi.Body2" type="style"></item>
+      <item name="TextAppearance.CarUi.Body3" type="style"></item>
+      <item name="TextAppearance.CarUi.ListItem" type="style"></item>
+      <item name="TextAppearance.CarUi.ListItem.Body" type="style"></item>
+      <item name="TextAppearance.CarUi.ListItem.Header" type="style"></item>
+      <item name="TextAppearance.CarUi.PreferenceCategoryTitle" type="style"></item>
+      <item name="TextAppearance.CarUi.PreferenceEditTextDialogMessage" type="style"></item>
+      <item name="TextAppearance.CarUi.PreferenceSummary" type="style"></item>
+      <item name="TextAppearance.CarUi.PreferenceTitle" type="style"></item>
+      <item name="TextAppearance.CarUi.Sub1" type="style"></item>
+      <item name="TextAppearance.CarUi.Sub2" type="style"></item>
+      <item name="TextAppearance.CarUi.Sub3" type="style"></item>
+      <item name="TextAppearance.CarUi.Widget" type="style"></item>
+      <item name="TextAppearance.CarUi.Widget.Toolbar" type="style"></item>
+      <item name="TextAppearance.CarUi.Widget.Toolbar.Tab" type="style"></item>
+      <item name="TextAppearance.CarUi.Widget.Toolbar.Tab.Selected" type="style"></item>
+      <item name="TextAppearance.CarUi.Widget.Toolbar.Title" type="style"></item>
+      <item name="Theme.CarUi" type="style"></item>
+      <item name="Theme.CarUi.NoToolbar" type="style"></item>
+      <item name="Theme.CarUi.WithToolbar" type="style"></item>
+      <item name="Widget.CarUi" type="style"></item>
+      <item name="Widget.CarUi.AlertDialog" type="style"></item>
+      <item name="Widget.CarUi.AlertDialog.HeaderContainer" type="style"></item>
+      <item name="Widget.CarUi.AlertDialog.Icon" type="style"></item>
+      <item name="Widget.CarUi.AlertDialog.TitleContainer" type="style"></item>
+      <item name="Widget.CarUi.AppStyledView" type="style"></item>
+      <item name="Widget.CarUi.AppStyledView.WindowAnimations" type="style"></item>
+      <item name="Widget.CarUi.AppStyledView.WindowAnimations.Enter" type="style"></item>
+      <item name="Widget.CarUi.AppStyledView.WindowAnimations.Exit" type="style"></item>
+      <item name="Widget.CarUi.AppStyledView.WindowAnimations.Intermediate" type="style"></item>
+      <item name="Widget.CarUi.Button" type="style"></item>
+      <item name="Widget.CarUi.Button.Borderless.Colored" type="style"></item>
+      <item name="Widget.CarUi.CarUiRecyclerView" type="style"></item>
+      <item name="Widget.CarUi.SeekbarPreference" type="style"></item>
+      <item name="Widget.CarUi.SeekbarPreference.Seekbar" type="style"></item>
+      <item name="Widget.CarUi.Toolbar" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.BottomView" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Container" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Logo" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.LogoContainer" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.MenuItem" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.MenuItem.Container" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.MenuItem.IndividualContainer" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.NavIcon" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.NavIconContainer" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.ProgressBar" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Search.CloseIcon" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Search.EditText" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Search.SearchIcon" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.SeparatorView" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Subtitle" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Tab" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Tab.Container" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Tab.Icon" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Tab.Text" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.TextButton" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.TextButton.WithIcon" type="style"></item>
+      <item name="Widget.CarUi.Toolbar.Title" type="style"></item>
+    </policy>
+  </overlayable>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_rotary_lib/res/values/overlayable.xml -->
+<eat-comment/>
+<overlayable name="rotary-ui">
+    <policy type="public">
+      <item name="car_ui_clear_focus_area_history_when_rotating" type="bool"></item>
+      <item name="car_ui_enable_focus_area_background_highlight" type="bool"></item>
+      <item name="car_ui_enable_focus_area_foreground_highlight" type="bool"></item>
+      <item name="car_ui_focus_area_default_focus_overrides_history" type="bool"></item>
+      <item name="car_ui_rotary_focus_fill_color" type="color"></item>
+      <item name="car_ui_rotary_focus_fill_secondary_color" type="color"></item>
+      <item name="car_ui_rotary_focus_pressed_fill_color" type="color"></item>
+      <item name="car_ui_rotary_focus_pressed_fill_secondary_color" type="color"></item>
+      <item name="car_ui_rotary_focus_pressed_stroke_color" type="color"></item>
+      <item name="car_ui_rotary_focus_pressed_stroke_secondary_color" type="color"></item>
+      <item name="car_ui_rotary_focus_stroke_color" type="color"></item>
+      <item name="car_ui_rotary_focus_stroke_secondary_color" type="color"></item>
+      <item name="car_ui_rotary_focus_pressed_stroke_width" type="dimen"></item>
+      <item name="car_ui_rotary_focus_stroke_width" type="dimen"></item>
+      <item name="car_ui_focus_area_background_highlight" type="drawable"></item>
+      <item name="car_ui_focus_area_foreground_highlight" type="drawable"></item>
+      <item name="car_ui_focus_area_history_cache_type" type="integer"></item>
+      <item name="car_ui_focus_area_history_expiration_period_ms" type="integer"></item>
+      <item name="car_ui_focus_history_cache_type" type="integer"></item>
+      <item name="car_ui_focus_history_expiration_period_ms" type="integer"></item>
+    </policy>
+  </overlayable>
+</resources>

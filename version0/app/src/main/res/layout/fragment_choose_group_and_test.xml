@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_home"
+    tools:context=".ChooseGroupAndTestFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textViewGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose a group"
+            android:shadowColor="@color/shadow_white"
+            android:shadowDx="4"
+            android:shadowDy="4"
+            android:shadowRadius="8"
+            android:textColor="@color/white"
+            android:layout_marginTop="265dp"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/spinnerGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/spinner_background"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/textViewTest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose a test"
+            android:shadowColor="@color/shadow_white"
+            android:shadowDx="4"
+            android:shadowDy="4"
+            android:shadowRadius="8"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <Spinner
+            android:id="@+id/spinnerTest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/spinner_background"
+            android:layout_marginTop="8dp" />
+
+        <Button
+            android:id="@+id/buttonConfirmSelection"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="24dp"
+            android:background="#00FFFFFF"
+            android:shadowColor="@color/shadow_white"
+            android:shadowDx="4"
+            android:shadowDy="4"
+            android:shadowRadius="8"
+            android:textColor="@color/white"
+            android:text="Ready"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+
+</FrameLayout>

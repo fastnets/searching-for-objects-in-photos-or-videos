@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2023 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<!-- When customizing list items with RROs using ViewStubs on the tap targets, car_ui_list_item_2
+    layout should be used. The car_ui_list_item_2 layout is the only list item layout which is
+    guaranteed to accommodate ViewStubs which will be inflated to contain all the relevant ui
+    elements of a car ui list item. The car_ui_list_item layout should be customized without relying
+    on ViewStubs as there is no guarantee that the version of car-ui-lib that is compiled with an
+    app will inflate the ViewStubs before referencing the underlying ui elements as this
+    functionality was added after car_ui_list_item. -->
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <include layout="@layout/car_ui_list_item"/>
+</FrameLayout>

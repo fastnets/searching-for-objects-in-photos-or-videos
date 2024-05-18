@@ -1,0 +1,148 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.android.tools.build",
+    "module": "manifest-merger",
+    "version": "31.3.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "manifest-merger-31.3.1.jar",
+          "url": "manifest-merger-31.3.1.jar",
+          "size": 245186,
+          "sha512": "2203f0ecce1fb431910b29f6e1040b9bd82be4cca6ecf7d10b04eb07eba4e58bf40d3abf59bac7239fc4179343c4edde006cd01dc1aadb080c7b8f02e91edc17",
+          "sha256": "2821718870ab0b1b8a6e8056604e6da4b3fbf203245426b826e61211420ad44b",
+          "sha1": "d04c0a6d6ed5230d0c5bfe82350e1b3c1f184942",
+          "md5": "f1bdd8786424ac9780f01a9bf0da4ef8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.tools",
+          "module": "common",
+          "version": {
+            "requires": "31.3.1"
+          }
+        },
+        {
+          "group": "com.android.tools",
+          "module": "sdklib",
+          "version": {
+            "requires": "31.3.1"
+          }
+        },
+        {
+          "group": "com.android.tools",
+          "module": "sdk-common",
+          "version": {
+            "requires": "31.3.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        },
+        {
+          "group": "net.sf.kxml",
+          "module": "kxml2",
+          "version": {
+            "requires": "2.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "manifest-merger-31.3.1.jar",
+          "url": "manifest-merger-31.3.1.jar",
+          "size": 245186,
+          "sha512": "2203f0ecce1fb431910b29f6e1040b9bd82be4cca6ecf7d10b04eb07eba4e58bf40d3abf59bac7239fc4179343c4edde006cd01dc1aadb080c7b8f02e91edc17",
+          "sha256": "2821718870ab0b1b8a6e8056604e6da4b3fbf203245426b826e61211420ad44b",
+          "sha1": "d04c0a6d6ed5230d0c5bfe82350e1b3c1f184942",
+          "md5": "f1bdd8786424ac9780f01a9bf0da4ef8"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "manifest-merger-31.3.1-javadoc.jar",
+          "url": "manifest-merger-31.3.1-javadoc.jar",
+          "size": 274805,
+          "sha512": "59da519fc724c72d6bf9e4029edbf88a2305425538c5e26560f9b528c872c2a7e8230d4ec6c0c9fb80ea81b49147d3a787c9d20b96c4ac28c2df3fb1abe46cc8",
+          "sha256": "22a1208fbae8e777630cec6c75a71e19bde1e15e19578159188312a41139e638",
+          "sha1": "f88c386e064b79845b0c9158bcf9e8c4aa2b753f",
+          "md5": "06fd013cbd8c7d4e74268f9a6ed84f74"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "manifest-merger-31.3.1-sources.jar",
+          "url": "manifest-merger-31.3.1-sources.jar",
+          "size": 229715,
+          "sha512": "623bf74c423f2b5ddaff462d1280af63469e1e71a634386d387cc28b3009063e9ca3cb27ee03e705fd013019df3e90679f2a6a47270058926a459200739918cb",
+          "sha256": "7632288cb2b37713308be0fbfcb329bd73c371fd6835b52b790ac7a80b9bbae0",
+          "sha1": "ea5b9c507771691c4012bfb8dc4b3f50f78e8391",
+          "md5": "fbc963879aae219bce149508dac11784"
+        }
+      ]
+    }
+  ]
+}

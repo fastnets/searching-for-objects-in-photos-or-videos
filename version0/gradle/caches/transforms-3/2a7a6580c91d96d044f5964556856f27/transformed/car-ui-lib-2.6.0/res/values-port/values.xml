@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values-port/bools.xml -->
+<eat-comment/>
+<bool name="car_ui_toolbar_tab_flexible_layout">true</bool>
+<!-- blaze-out/k8-opt/bin/third_party/java_src/android_libs/car_chassis_lib/car_ui_lib/res/src/main/res/values-port/priv-dimens.xml -->
+<eat-comment/>
+<dimen name="car_ui_app_styled_dialog_height_max">1056dp</dimen>
+<dimen name="car_ui_app_styled_dialog_width_max">768dp</dimen>
+</resources>

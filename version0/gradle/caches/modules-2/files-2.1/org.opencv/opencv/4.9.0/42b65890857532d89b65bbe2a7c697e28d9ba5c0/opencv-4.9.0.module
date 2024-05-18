@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.opencv",
+    "module": "opencv",
+    "version": "4.9.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "opencv-4.9.0.aar",
+          "url": "opencv-4.9.0.aar",
+          "size": 110628977,
+          "sha512": "ac88cd221e84979fe4eab809ed419698806eccf1d5807042686ed68a3f01c5271ecd3c08f87bfce5c2380bfa3bc09b9887bafca60f11a491202cd6a523032a91",
+          "sha256": "932519cec0b771759fd2910f9ba33beea06408d752f7e6b51b01b5ddac9d8dab",
+          "sha1": "b2a6d7e79b40d45781b0448352afc0d160c43d3d",
+          "md5": "c6c81fb9e60c38e3a4f12f11cf736f33"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "opencv-4.9.0.aar",
+          "url": "opencv-4.9.0.aar",
+          "size": 110628977,
+          "sha512": "ac88cd221e84979fe4eab809ed419698806eccf1d5807042686ed68a3f01c5271ecd3c08f87bfce5c2380bfa3bc09b9887bafca60f11a491202cd6a523032a91",
+          "sha256": "932519cec0b771759fd2910f9ba33beea06408d752f7e6b51b01b5ddac9d8dab",
+          "sha1": "b2a6d7e79b40d45781b0448352afc0d160c43d3d",
+          "md5": "c6c81fb9e60c38e3a4f12f11cf736f33"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "opencv-4.9.0-sources.jar",
+          "url": "opencv-4.9.0-sources.jar",
+          "size": 466527,
+          "sha512": "31ec2ef68c2e7bbefd22962468d6ca0727c10c8fe06435eb55f96e277c629fba71bc099f7c0aaae25b1d1d77207387b6a23ce05585210e4776c9027994090ccb",
+          "sha256": "a609123948b1ef3111811e0d5817e49697588fc681b9ca0544e08b23188a3a23",
+          "sha1": "479eed7dac4e28b409e21a502046434758967f29",
+          "md5": "9aaf08bec4c29727f7f3f30f2714aa1f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "opencv-4.9.0-javadoc.jar",
+          "url": "opencv-4.9.0-javadoc.jar",
+          "size": 1558308,
+          "sha512": "299d68b19fbabb647ebc45282695f36770f1cd94838f55c223f7a93668cccad49f9cf5aceee7ba8f2dcda9720617f2d4369539f077dc2278087d18e44fd2db21",
+          "sha256": "98cd0a1f248353210aa5d219ec81db0c51445c27c3e02dc291141a5773861604",
+          "sha1": "6e5e18dcc5354cd5382811d1e2c6cb03acadd1de",
+          "md5": "0d748d19f79a1872ab81172d2f0221a2"
+        }
+      ]
+    }
+  ]
+}
